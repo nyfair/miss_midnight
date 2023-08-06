@@ -1,0 +1,7 @@
+/target
+/api
+/app_data
+/img
+/swf
+Cargo.lock
+config.json

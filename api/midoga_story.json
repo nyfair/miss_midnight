@@ -1,0 +1,716 @@
+{
+  "page": "midoga_story",
+  "error_flg": 0,
+  "user_data": {
+    "name": "{{ name }}"
+  },
+  "story_list": [
+    {
+      "story_name": "ミッドナイトガールズ！",
+      "url": "https://res.midogar.saikyo.biz/img/story/0m.png",
+      "episode_list": [
+        {
+          "episode_title": "プロローグ",
+          "episode_desc": "ここは魔物と人が暮らす世界。\n魔物は人よりも強いが、『メス』しか存在しないため繁殖には人のオスが必要だった。\n人は魔物よりも弱い種族だが、 数が多いためとても栄えていた。\n魔物と人は、時に対立し、時に助け合いながら暮らしている。",
+          "label": "midoga_prologue",
+          "h": true
+        }
+      ]
+    },
+    {
+      "story_name": "第1話 農業と風車の街アルブス",
+      "url": "https://res.midogar.saikyo.biz/img/episode/a/ep_001_001.png",
+      "episode_list": [
+        {
+          "episode_title": "story 1 初めての転移 前",
+          "episode_desc": "リルムに率いられ、コレットの館を訪れる主人公だが、そこで魔法が暴発してしまい……。",
+          "label": "midoga_1_1_1_1"
+        },
+        {
+          "episode_title": "story 1 初めての転移 後",
+          "episode_desc": "リルムに率いられ、コレットの館を訪れる主人公だが、そこで魔法が暴発してしまい……。",
+          "label": "midoga_1_1_1_2"
+        },
+        {
+          "episode_title": "story 2 アルブスでの遭遇 前",
+          "episode_desc": "トリトニー、リルムと主人公の三人はアルブスへと転移してしまう。そこでは天使たちが待ち構えていた。",
+          "label": "midoga_1_1_2_1"
+        },
+        {
+          "episode_title": "story 2 アルブスでの遭遇 後",
+          "episode_desc": "トリトニー、リルムと主人公の三人はアルブスへと転移してしまう。そこでは天使たちが待ち構えていた。",
+          "label": "midoga_1_1_2_2"
+        },
+        {
+          "episode_title": "story 3 転移魔法の不発 前",
+          "episode_desc": "転移魔法をリルムが起動するも、何故か発動しない。敵に見つかり慌しく戦うこととなる。",
+          "label": "midoga_1_1_3_1"
+        },
+        {
+          "episode_title": "story 3 転移魔法の不発 後",
+          "episode_desc": "転移魔法をリルムが起動するも、何故か発動しない。敵に見つかり慌しく戦うこととなる。",
+          "label": "midoga_1_1_3_2"
+        },
+        {
+          "episode_title": "story 4 新たな出会い 前",
+          "episode_desc": "多勢に無勢でどんどん消耗していくリルムたち。しかし謎のモンスター娘のツタ魔法によって窮地を脱する。",
+          "label": "midoga_1_1_4_1"
+        },
+        {
+          "episode_title": "story 4 新たな出会い 後",
+          "episode_desc": "多勢に無勢でどんどん消耗していくリルムたち。しかし謎のモンスター娘のツタ魔法によって窮地を脱する。",
+          "label": "midoga_1_1_4_2"
+        },
+        {
+          "episode_title": "story 5 私の友達 前",
+          "episode_desc": "トリトニーの友人であるフィーリアによって助けられた一行は、召還魔法が失敗した原因を知ることとなる。",
+          "label": "midoga_1_1_5_1"
+        },
+        {
+          "episode_title": "story 5 私の友達 後",
+          "episode_desc": "トリトニーの友人であるフィーリアによって助けられた一行は、召還魔法が失敗した原因を知ることとなる。",
+          "label": "midoga_1_1_5_2"
+        },
+        {
+          "episode_title": "story 6 天使の搾精 前",
+          "episode_desc": "今までより強力な天使の出現に、主人公と分断されてしまうリルムたち。孤立した主人公は天使の足コキの餌食となる……。",
+          "label": "midoga_1_1_6_1"
+        },
+        {
+          "episode_title": "story 6 天使の搾精 後",
+          "episode_desc": "今までより強力な天使の出現に、主人公と分断されてしまうリルムたち。孤立した主人公は天使の足コキの餌食となる……。",
+          "label": "midoga_1_1_6_2",
+          "h": true
+        },
+        {
+          "episode_title": "story 7 大天使との邂逅 前",
+          "episode_desc": "主人公が目を覚ますと一人の女の子が側にいた。その子の導きによって無事リルムたちと再会を果たす。",
+          "label": "midoga_1_1_7_1"
+        },
+        {
+          "episode_title": "story 7 大天使との邂逅 後",
+          "episode_desc": "主人公が目を覚ますと一人の女の子が側にいた。その子の導きによって無事リルムたちと再会を果たす。",
+          "label": "midoga_1_1_7_2"
+        },
+        {
+          "episode_title": "story 8 相次ぐ戦闘 前",
+          "episode_desc": "リルムたちはさらに力を持った天使たちと出会い、再び戦いへと身を投じる。",
+          "label": "midoga_1_1_8_1"
+        },
+        {
+          "episode_title": "story 8 相次ぐ戦闘 後",
+          "episode_desc": "リルムたちはさらに力を持った天使たちと出会い、再び戦いへと身を投じる。",
+          "label": "midoga_1_1_8_2"
+        },
+        {
+          "episode_title": "story 9 光る噴水 前",
+          "episode_desc": "アルブスを進むリルムたち。街の中心には不思議な光る噴水があった。",
+          "label": "midoga_1_1_9_1"
+        },
+        {
+          "episode_title": "story 9 光る噴水 後",
+          "episode_desc": "アルブスを進むリルムたち。街の中心には不思議な光る噴水があった。",
+          "label": "midoga_1_1_9_2"
+        },
+        {
+          "episode_title": "story 10 噴水との戦い 前",
+          "episode_desc": "噴水が光っているかと思うと、突如襲い掛かってくる。噴水の動きを止めるため、魔法の発動を試みる。",
+          "label": "midoga_1_1_10_1"
+        },
+        {
+          "episode_title": "story 10 噴水との戦い 後",
+          "episode_desc": "噴水が光っているかと思うと、突如襲い掛かってくる。噴水の動きを止めるため、魔法の発動を試みる。",
+          "label": "midoga_1_1_10_2"
+        }
+      ]
+    },
+    {
+      "story_name": "第2話 温泉と火山の街ゲミノルム【前】",
+      "url": "https://res.midogar.saikyo.biz/img/episode/a/ep_001_002.png",
+      "episode_list": [
+        {
+          "episode_title": "story 1 新たな出会い 前",
+          "episode_desc": "ディアネットの元を訪れると、機械都市ピロソフィクスからの来客、マリエッタと出会う。",
+          "label": "midoga_1_2_1_1"
+        },
+        {
+          "episode_title": "story 1 新たな出会い 後",
+          "episode_desc": "ディアネットの元を訪れると、機械都市ピロソフィクスからの来客、マリエッタと出会う。",
+          "label": "midoga_1_2_1_2"
+        },
+        {
+          "episode_title": "story 2 この場所はどこ？ 前",
+          "episode_desc": "またしても転移事故で見知らぬ街へと降り立ってしまったリルムたち。謎の足音に耳を澄ますと……。",
+          "label": "midoga_1_2_2_1"
+        },
+        {
+          "episode_title": "story 2 この場所はどこ？ 後",
+          "episode_desc": "またしても転移事故で見知らぬ街へと降り立ってしまったリルムたち。謎の足音に耳を澄ますと……。",
+          "label": "midoga_1_2_2_2"
+        },
+        {
+          "episode_title": "story 3 プネウマ山の火山地帯 前",
+          "episode_desc": "謎の魔物エインによってゲミノルムに転移してしまったことを知った一行は、エインの話に耳を傾けながら温泉街を目指す。",
+          "label": "midoga_1_2_3_1"
+        },
+        {
+          "episode_title": "story 3 プネウマ山の火山地帯 後",
+          "episode_desc": "謎の魔物エインによってゲミノルムに転移してしまったことを知った一行は、エインの話に耳を傾けながら温泉街を目指す。",
+          "label": "midoga_1_2_3_2"
+        },
+        {
+          "episode_title": "story 4 霧の篭め立つ温泉街 前",
+          "episode_desc": "温泉街に到達し、はしゃぐリルロット。エインと別れるが、その際に意味深な忠告を受ける。",
+          "label": "midoga_1_2_4_1"
+        },
+        {
+          "episode_title": "story 4 霧の篭め立つ温泉街 後",
+          "episode_desc": "温泉街に到達し、はしゃぐリルロット。エインと別れるが、その際に意味深な忠告を受ける。",
+          "label": "midoga_1_2_4_2"
+        },
+        {
+          "episode_title": "story 5 人気の無い街 前",
+          "episode_desc": "温泉街を探索するも、どこにも魔族が見当たらず疑問に思う一行。情報を求めさらに歩みを進めるのであった。",
+          "label": "midoga_1_2_5_1"
+        },
+        {
+          "episode_title": "story 5 人気の無い街 後",
+          "episode_desc": "温泉街を探索するも、どこにも魔族が見当たらず疑問に思う一行。情報を求めさらに歩みを進めるのであった。",
+          "label": "midoga_1_2_5_2"
+        },
+        {
+          "episode_title": "story 6 怪しい温泉宿 前",
+          "episode_desc": "敵を倒しながらも魔物を捜し歩くリルムたち。そのまま温泉宿へとたどり着いた。",
+          "label": "midoga_1_2_6_1"
+        },
+        {
+          "episode_title": "story 6 怪しい温泉宿 後",
+          "episode_desc": "敵を倒しながらも魔物を捜し歩くリルムたち。そのまま温泉宿へとたどり着いた。",
+          "label": "midoga_1_2_6_2"
+        },
+        {
+          "episode_title": "story 7 温泉宿のメイド女将 前",
+          "episode_desc": "ネアという魔物がいる宿を見つけたが、転移魔法の不調について調査しているという魔物とはすれ違いになってしまう。",
+          "label": "midoga_1_2_7_1"
+        },
+        {
+          "episode_title": "story 7 温泉宿のメイド女将 後",
+          "episode_desc": "ネアという魔物がいる宿を見つけたが、転移魔法の不調について調査しているという魔物とはすれ違いになってしまう。",
+          "label": "midoga_1_2_7_2"
+        },
+        {
+          "episode_title": "story 8 厳しい山登り 前",
+          "episode_desc": "調査をしている魔物を見つけるため山を登るが、頂上でもその魔物の姿は見つけられずにいた。",
+          "label": "midoga_1_2_8_1"
+        },
+        {
+          "episode_title": "story 8 厳しい山登り 後",
+          "episode_desc": "調査をしている魔物を見つけるため山を登るが、頂上でもその魔物の姿は見つけられずにいた。",
+          "label": "midoga_1_2_8_2"
+        },
+        {
+          "episode_title": "story 9 怪しい靄 前",
+          "episode_desc": "頂上付近からさらに探索を進めようとするが、怪しい動きをする靄を見つけてしまう。",
+          "label": "midoga_1_2_9_1"
+        },
+        {
+          "episode_title": "story 9 怪しい靄 後",
+          "episode_desc": "頂上付近からさらに探索を進めようとするが、怪しい動きをする靄を見つけてしまう。",
+          "label": "midoga_1_2_9_2"
+        },
+        {
+          "episode_title": "story 10 新たな仲間 前",
+          "episode_desc": "靄にかこまれ絶体絶命かと思ったところへ、新たな仲間が駆けつける。",
+          "label": "midoga_1_2_10_1"
+        },
+        {
+          "episode_title": "story 10 新たな仲間 後",
+          "episode_desc": "靄にかこまれ絶体絶命かと思ったところへ、新たな仲間が駆けつける。",
+          "label": "midoga_1_2_10_2"
+        }
+      ]
+    },
+    {
+      "story_name": "第3話 温泉と火山の街ゲミノルム【後】",
+      "url": "https://res.midogar.saikyo.biz/img/episode/a/ep_001_003.png",
+      "episode_list": [
+        {
+          "episode_title": "story 1 火山の調査 前",
+          "episode_desc": "やっと調査を行っているという魔物と出会うことが出来たリルムたち。天使をやり過ごしながらゲミノルムへ―",
+          "label": "midoga_1_3_1_1"
+        },
+        {
+          "episode_title": "story 1 火山の調査 後",
+          "episode_desc": "やっと調査を行っているという魔物と出会うことが出来たリルムたち。天使をやり過ごしながらゲミノルムへ―",
+          "label": "midoga_1_3_1_2"
+        },
+        {
+          "episode_title": "story 2 たのしい温泉 前",
+          "episode_desc": "ゲミノルムの情報を入手した後、無事リルロットたちは希望通り温泉を楽しむのであった。",
+          "label": "midoga_1_3_2_1"
+        },
+        {
+          "episode_title": "story 2 たのしい温泉 後",
+          "episode_desc": "ゲミノルムの情報を入手した後、無事リルロットたちは希望通り温泉を楽しむのであった。",
+          "label": "midoga_1_3_2_2"
+        },
+        {
+          "episode_title": "story 3 望まれぬ訪問者 前",
+          "episode_desc": "寝付けなかったリルムと夜の会話を楽しんでいたが、唐突に部屋のドアが開き……",
+          "label": "midoga_1_3_3_1"
+        },
+        {
+          "episode_title": "story 3 望まれぬ訪問者 後",
+          "episode_desc": "寝付けなかったリルムと夜の会話を楽しんでいたが、唐突に部屋のドアが開き……",
+          "label": "midoga_1_3_3_2"
+        },
+        {
+          "episode_title": "story 4 突然の対立 前",
+          "episode_desc": "敵を引き連れて襲い掛かってきたのは意外な人物であった――！",
+          "label": "midoga_1_3_4_1"
+        },
+        {
+          "episode_title": "story 4 突然の対立 後",
+          "episode_desc": "敵を引き連れて襲い掛かってきたのは意外な人物であった――！",
+          "label": "midoga_1_3_4_2"
+        },
+        {
+          "episode_title": "story 5 見えない結界 前",
+          "episode_desc": "逃げ出してきた一行は見えない壁のようなものにぶつかってしまう。そこで目にしたものとは……。",
+          "label": "midoga_1_3_5_1"
+        },
+        {
+          "episode_title": "story 5 見えない結界 後",
+          "episode_desc": "逃げ出してきた一行は見えない壁のようなものにぶつかってしまう。そこで目にしたものとは……。",
+          "label": "midoga_1_3_5_2"
+        },
+        {
+          "episode_title": "story 6 新たな敵？ 前",
+          "episode_desc": "すくら岩を調べようとするも天使が大量に押しかけてきてしまう。天使を倒し終わってもハプニングは続いていく。",
+          "label": "midoga_1_3_6_1"
+        },
+        {
+          "episode_title": "story 6 新たな敵？ 後",
+          "episode_desc": "すくら岩を調べようとするも天使が大量に押しかけてきてしまう。天使を倒し終わってもハプニングは続いていく。",
+          "label": "midoga_1_3_6_2"
+        },
+        {
+          "episode_title": "story 7 錯綜する思惑 前",
+          "episode_desc": "ネアの追撃によって主人公が奪われてしまうも、天使によってネアから奪還される。しかし主人公はそのまま天使に精を吸われ……。",
+          "label": "midoga_1_3_7_1"
+        },
+        {
+          "episode_title": "story 7 錯綜する思惑 後",
+          "episode_desc": "ネアの追撃によって主人公が奪われてしまうも、天使によってネアから奪還される。しかし主人公はそのまま天使に精を吸われ……。",
+          "label": "midoga_1_3_7_2"
+        },
+        {
+          "episode_title": "story 8 奇妙な共闘 前",
+          "episode_desc": "謎の天使、リルムたち、ネアと三すくみの構図になり、それぞれの使命が交差していく……。",
+          "label": "midoga_1_3_8_1"
+        },
+        {
+          "episode_title": "story 8 奇妙な共闘 後",
+          "episode_desc": "謎の天使、リルムたち、ネアと三すくみの構図になり、それぞれの使命が交差していく……。",
+          "label": "midoga_1_3_8_2"
+        },
+        {
+          "episode_title": "story 9 キーアイテム 前",
+          "episode_desc": "すくら岩の秘密に気づいたリルム。天使の手から主人公を奪い返すためある作戦を実行する。",
+          "label": "midoga_1_3_9_1"
+        },
+        {
+          "episode_title": "story 9 キーアイテム 後",
+          "episode_desc": "すくら岩の秘密に気づいたリルム。天使の手から主人公を奪い返すためある作戦を実行する。",
+          "label": "midoga_1_3_9_2"
+        },
+        {
+          "episode_title": "story 10 囚われの天使 前",
+          "episode_desc": "何者かの策によって囚われたスクラ。一方リルム率いる主人公たちは無事帰還を果たす。",
+          "label": "midoga_1_3_10_1"
+        },
+        {
+          "episode_title": "story 10 囚われの天使 後",
+          "episode_desc": "何者かの策によって囚われたスクラ。一方リルム率いる主人公たちは無事帰還を果たす。",
+          "label": "midoga_1_3_10_2"
+        }
+      ]
+    },
+    {
+      "story_name": "第4話 科学と魔法の街ピロソフィクス【前】",
+      "url": "https://res.midogar.saikyo.biz/img/episode/a/ep_001_004.png",
+      "episode_list": [
+        {
+          "episode_title": "story 1 アリスとファマのだいぼうけん 前",
+          "episode_desc": "リルムの家で、ある絵本を読むリルムと主人公の二人。そこにある謎のオートマタが訪れてくる。",
+          "label": "midoga_1_4_1_1"
+        },
+        {
+          "episode_title": "story 1 アリスとファマのだいぼうけん 後",
+          "episode_desc": "リルムの家で、ある絵本を読むリルムと主人公の二人。そこにある謎のオートマタが訪れてくる。",
+          "label": "midoga_1_4_1_2"
+        },
+        {
+          "episode_title": "story 2 邂逅 前",
+          "episode_desc": "主人公と同行するマリエッタ。オートマタに襲われている人間の少女を見つけ、救出しようと戦いを挑む。",
+          "label": "midoga_1_4_2_1"
+        },
+        {
+          "episode_title": "story 2 邂逅 後",
+          "episode_desc": "主人公と同行するマリエッタ。オートマタに襲われている人間の少女を見つけ、救出しようと戦いを挑む。",
+          "label": "midoga_1_4_2_2"
+        },
+        {
+          "episode_title": "story 3 統合管理アンドロイド 前",
+          "episode_desc": "リトスと名乗る少女はマリエッタからピロソフィクスの現状を聞き、オートマタたちの目的を知ったのであった。",
+          "label": "midoga_1_4_3_1"
+        },
+        {
+          "episode_title": "story 3 統合管理アンドロイド 後",
+          "episode_desc": "リトスと名乗る少女はマリエッタからピロソフィクスの現状を聞き、オートマタたちの目的を知ったのであった。",
+          "label": "midoga_1_4_3_2"
+        },
+        {
+          "episode_title": "story 4 路地裏に響く声 前",
+          "episode_desc": "多数のオートマタに襲われ路地裏に逃げ込んだ一行。そこから不審な声が聞こえてくる。",
+          "label": "midoga_1_4_4_1"
+        },
+        {
+          "episode_title": "story 4 路地裏に響く声 後",
+          "episode_desc": "多数のオートマタに襲われ路地裏に逃げ込んだ一行。そこから不審な声が聞こえてくる。",
+          "label": "midoga_1_4_4_2"
+        },
+        {
+          "episode_title": "story 5 球体の存在 前",
+          "episode_desc": "アルテアだと自称する球体を前に驚くマリエッタたち。さらにオートマタに襲われ戦闘を余儀なくされる。",
+          "label": "midoga_1_4_5_1"
+        },
+        {
+          "episode_title": "story 5 球体の存在 後",
+          "episode_desc": "アルテアだと自称する球体を前に驚くマリエッタたち。さらにオートマタに襲われ戦闘を余儀なくされる。",
+          "label": "midoga_1_4_5_2"
+        },
+        {
+          "episode_title": "story 6 神秘の機械 前",
+          "episode_desc": "完全な機械だと自負する球体に気を取られていたが、そこにも敵の手が及んでくる。",
+          "label": "midoga_1_4_6_1"
+        },
+        {
+          "episode_title": "story 6 神秘の機械 後",
+          "episode_desc": "完全な機械だと自負する球体に気を取られていたが、そこにも敵の手が及んでくる。",
+          "label": "midoga_1_4_6_2"
+        },
+        {
+          "episode_title": "story 7 警戒信号 前",
+          "episode_desc": "敵のオートマタを交わし、さらに歩みを進めていたが突如地響きが鳴り、そこにアンドロイドが出現していた。",
+          "label": "midoga_1_4_7_1"
+        },
+        {
+          "episode_title": "story 7 警戒信号 後",
+          "episode_desc": "敵のオートマタを交わし、さらに歩みを進めていたが突如地響きが鳴り、そこにアンドロイドが出現していた。",
+          "label": "midoga_1_4_7_2"
+        },
+        {
+          "episode_title": "story 8 魔女ベルナーシャ 前",
+          "episode_desc": "魔女であるベルナーシャに協力を仰ぐマリエッタだが、そこで良くない知らせを告げられる。",
+          "label": "midoga_1_4_8_1"
+        },
+        {
+          "episode_title": "story 8 魔女ベルナーシャ 後",
+          "episode_desc": "魔女であるベルナーシャに協力を仰ぐマリエッタだが、そこで良くない知らせを告げられる。",
+          "label": "midoga_1_4_8_2"
+        },
+        {
+          "episode_title": "story 9 戦闘用使い魔 前",
+          "episode_desc": "ベルナーシャに連れられ不思議な建物へと訪れた魔物たち。そこには害意のある使い魔が配備されていた。",
+          "label": "midoga_1_4_9_1"
+        },
+        {
+          "episode_title": "story 9 戦闘用使い魔 後",
+          "episode_desc": "ベルナーシャに連れられ不思議な建物へと訪れた魔物たち。そこには害意のある使い魔が配備されていた。",
+          "label": "midoga_1_4_9_2"
+        },
+        {
+          "episode_title": "story 10 トラップの連続 前",
+          "episode_desc": "数々のトラップに引っかかってしまうも何とか先に進んでいた。しかしその先で強力な使い魔に襲い掛かられる。",
+          "label": "midoga_1_4_10_1"
+        },
+        {
+          "episode_title": "story 10 トラップの連続 後",
+          "episode_desc": "数々のトラップに引っかかってしまうも何とか先に進んでいた。しかしその先で強力な使い魔に襲い掛かられる。",
+          "label": "midoga_1_4_10_2"
+        }
+      ]
+    },
+    {
+      "story_name": "第5話 科学と魔法の街ピロソフィクス【後】",
+      "url": "https://res.midogar.saikyo.biz/img/episode/a/ep_001_005.png",
+      "episode_list": [
+        {
+          "episode_title": "story 1 その正体は 前",
+          "episode_desc": "声に導かれ、部屋へと進むリトスと主人公。突如二人に魔法攻撃が襲い掛かってくる。",
+          "label": "midoga_5_1_1"
+        },
+        {
+          "episode_title": "story 1 その正体は 後",
+          "episode_desc": "声に導かれ、部屋へと進むリトスと主人公。突如二人に魔法攻撃が襲い掛かってくる。",
+          "label": "midoga_5_1_2"
+        },
+        {
+          "episode_title": "story 2 どうしてなの？ 前",
+          "episode_desc": "轟音が部屋に鳴り響く。リルムたちは異変に気付き部屋へと駆け付ける。",
+          "label": "midoga_5_2_1"
+        },
+        {
+          "episode_title": "story 2 どうしてなの？ 後",
+          "episode_desc": "轟音が部屋に鳴り響く。リルムたちは異変に気付き部屋へと駆け付ける。",
+          "label": "midoga_5_2_2"
+        },
+        {
+          "episode_title": "story 3 お別れの挨拶",
+          "episode_desc": "リトス正体を知り、驚く一行。アルテアへ弱点の解析を依頼するが……",
+          "label": "midoga_5_3_1"
+        },
+        {
+          "episode_title": "story 4 活動限界 前",
+          "episode_desc": "アルテアの正体を知り、ショックを受けているリルム。しかしリトスの攻撃指示は止まない。",
+          "label": "midoga_5_4_1"
+        },
+        {
+          "episode_title": "story 4 活動限界 後",
+          "episode_desc": "アルテアの正体を知り、ショックを受けているリルム。しかしリトスの攻撃指示は止まない。",
+          "label": "midoga_5_4_2"
+        },
+        {
+          "episode_title": "story 5 個々の選択 前",
+          "episode_desc": "アルテアが機能を停止し、リルムは怒りでリトスに食って掛かる。",
+          "label": "midoga_5_5_1"
+        },
+        {
+          "episode_title": "story 5 個々の選択 後",
+          "episode_desc": "アルテアが機能を停止し、リルムは怒りでリトスに食って掛かる。",
+          "label": "midoga_5_5_2"
+        },
+        {
+          "episode_title": "story 6 魔具の在り処",
+          "episode_desc": "リトスと一度戦うも、その強さを前にリルムは戦意が揺らぐ。止めを刺しに来るリトス。",
+          "label": "midoga_5_6_1"
+        },
+        {
+          "episode_title": "story 7 魔物も人間も天使も 前",
+          "episode_desc": "アリアは天使への激しい怒りを露わにするが、一方リルムはまだ戸惑いを見せていた。",
+          "label": "midoga_5_7_1"
+        },
+        {
+          "episode_title": "story 7 魔物も人間も天使も 後",
+          "episode_desc": "アリアは天使への激しい怒りを露わにするが、一方リルムはまだ戸惑いを見せていた。",
+          "label": "midoga_5_7_2"
+        },
+        {
+          "episode_title": "story 8 帰還",
+          "episode_desc": "マリエッタ、ベルナーシャと別れた主人公たちは、ルドラムへと帰還する。",
+          "label": "midoga_5_8_2"
+        },
+        {
+          "episode_title": "story 9 無礼者参上 前",
+          "episode_desc": "二人でこれからのことを決めた主人公とリルム。コレットの館を訪れて話をするが、そこへ急な来訪者が――",
+          "label": "midoga_5_9_1"
+        },
+        {
+          "episode_title": "story 9 無礼者参上 後",
+          "episode_desc": "二人でこれからのことを決めた主人公とリルム。コレットの館を訪れて話をするが、そこへ急な来訪者が――",
+          "label": "midoga_5_9_2"
+        },
+        {
+          "episode_title": "story 10 いざオドーラへ",
+          "episode_desc": "変わり者サキュバスたちと一線を交え、彼女たちの目的を知らされる。",
+          "label": "midoga_5_10_1"
+        }
+      ]
+    },
+    {
+      "story_name": "第6話 森と自然の街オドーラ",
+      "url": "https://res.midogar.saikyo.biz/img/episode/a/ep_001_006.png",
+      "episode_list": [
+        {
+          "episode_title": "story 1 オドーラの森 前",
+          "episode_desc": "オドーラの街の外れにある森へと到着した主人公たち。早速探索を始めるが……。",
+          "label": "midoga_6-1-1"
+        },
+        {
+          "episode_title": "story 1 オドーラの森 後",
+          "episode_desc": "オドーラの街の外れにある森へと到着した主人公たち。早速探索を始めるが……。",
+          "label": "midoga_6-1-2"
+        },
+        {
+          "episode_title": "story 2 迷い続けて 前",
+          "episode_desc": "オドーラの森の中で迷ってしまい、野宿をする羽目に。そこでエンジュが出口を探す方法を提案する。",
+          "label": "midoga_6-2-1"
+        },
+        {
+          "episode_title": "story 2 迷い続けて 後",
+          "episode_desc": "オドーラの森の中で迷ってしまい、野宿をする羽目に。そこでエンジュが出口を探す方法を提案する。",
+          "label": "midoga_6-2-2"
+        },
+        {
+          "episode_title": "story 3 辿り着いた先は 前",
+          "episode_desc": "ついにオドーラの森から抜けることができたが、一行の先は様子がおかしい光景だった。",
+          "label": "midoga_6-3-1"
+        },
+        {
+          "episode_title": "story 3 辿り着いた先は 後",
+          "episode_desc": "ついにオドーラの森から抜けることができたが、一行の先は様子がおかしい光景だった。",
+          "label": "midoga_6-3-2"
+        },
+        {
+          "episode_title": "story 4 異常な街 前",
+          "episode_desc": "辿り着いた街は、誰もおらず、とても静かな場所だった。そこでエンジュがある物を見つける。",
+          "label": "midoga_6-4-1"
+        },
+        {
+          "episode_title": "story 4 異常な街 後",
+          "episode_desc": "辿り着いた街は、誰もおらず、とても静かな場所だった。そこでエンジュがある物を見つける。",
+          "label": "midoga_6-4-2"
+        },
+        {
+          "episode_title": "story 5 拠点で一息 前",
+          "episode_desc": "手記があった家を拠点にし、一行はまず食料を求め再び森へと探索する。",
+          "label": "midoga_6-5-1"
+        },
+        {
+          "episode_title": "story 5 拠点で一息 後",
+          "episode_desc": "手記があった家を拠点にし、一行はまず食料を求め再び森へと探索する。",
+          "label": "midoga_6-5-2"
+        },
+        {
+          "episode_title": "story 6 豹変する一行 前",
+          "episode_desc": "手がかり探しを始めてから数日が経ち、次第に一行の様子がおかしくなり……。",
+          "label": "midoga_6-6-1"
+        },
+        {
+          "episode_title": "story 6 豹変する一行 後",
+          "episode_desc": "手がかり探しを始めてから数日が経ち、次第に一行の様子がおかしくなり……。",
+          "label": "midoga_6-6-2"
+        },
+        {
+          "episode_title": "story 7 大天使スクラ現る",
+          "episode_desc": "家を出て、森の中へと入った主人公の前に、大天使スクラが待ち伏せしていた。",
+          "label": "midoga_6-7-2"
+        },
+        {
+          "episode_title": "story 8 スクラの急襲",
+          "episode_desc": "襲いかかるスクラから逃げる主人公。ところが、急にスクラの様子が変わり……。",
+          "label": "midoga_6-8-1",
+          "h": true
+        },
+        {
+          "episode_title": "story 9 暴走するスクラ 前",
+          "episode_desc": "突然様子が変わったスクラから逃げる主人公は、リルム達と合流し逃走を試みる。",
+          "label": "midoga_6-9-1"
+        },
+        {
+          "episode_title": "story 9 暴走するスクラ 後",
+          "episode_desc": "突然様子が変わったスクラから逃げる主人公は、リルム達と合流し逃走を試みる。",
+          "label": "midoga_6-9-2"
+        },
+        {
+          "episode_title": "story 10 一行の行方",
+          "episode_desc": "スクラから発する強大な光から逃げるが、主人公が庇って逃げ遅れてしまい……。",
+          "label": "midoga_6-10-2"
+        }
+      ]
+    },
+    {
+      "story_name": "第7話 魔物と天使",
+      "url": "https://res.midogar.saikyo.biz/img/episode/a/ep_001_007.png",
+      "episode_list": [
+        {
+          "episode_title": "story 1 ルドラムへの緊急帰還",
+          "episode_desc": "エンジュ・キルリカ・主人公の三人はルドラムに何とか戻ってこれたが、そこにはやはりリルムの姿は無く……",
+          "label": "midoga_7_1_1"
+        },
+        {
+          "episode_title": "story 2 ルドラム評議会",
+          "episode_desc": "集められたメンバーはリルムが天使の放つ光の中に消えたことを知り、騒然とする。",
+          "label": "midoga_7_2_2"
+        },
+        {
+          "episode_title": "story 3 決議",
+          "episode_desc": "コレットによって、リルムの捜索はあきらめるという決議がまとめられる。対してディアネットは――。",
+          "label": "midoga_7_3_2"
+        },
+        {
+          "episode_title": "story 4 怒りと涙",
+          "episode_desc": "リルムを失ったディアネットの怒りを目の当たりにし、改めて自分の無力さを知る主人公であった。",
+          "label": "midoga_7_4_2"
+        },
+        {
+          "episode_title": "story 5 死の間際に 前",
+          "episode_desc": "リルムの命の灯火は今まさに消えかかろうとしていた。そこで出会ったのは一人の天使で――。",
+          "label": "midoga_7_5_1"
+        },
+        {
+          "episode_title": "story 5 死の間際に 後",
+          "episode_desc": "リルムの命の灯火は今まさに消えかかろうとしていた。そこで出会ったのは一人の天使で――。",
+          "label": "midoga_7_5_2"
+        },
+        {
+          "episode_title": "story 6 天界に到着",
+          "episode_desc": "スクラによって天界へと連れて行かれたリルム。そこに映る光景に驚きながらも、天使についての話を伺う。",
+          "label": "midoga_7_6_1"
+        },
+        {
+          "episode_title": "story 7 アンジェロス",
+          "episode_desc": "リルムはついに天使を造った天使「アンジェロス」と出会う。",
+          "label": "midoga_7_7_1"
+        },
+        {
+          "episode_title": "story 8 叶わぬ願い",
+          "episode_desc": "リルムの話に耳すら傾けないアンジェロスは、怒りのままにリルムを光に溶かそうとする。",
+          "label": "midoga_7_8_1"
+        },
+        {
+          "episode_title": "story 9 心",
+          "episode_desc": "自分が裏切られたと思い怒りを爆発するアンジェロスに、リルムは天使にも心があると僅かな確信を持った。",
+          "label": "midoga_7_9_1"
+        },
+        {
+          "episode_title": "story 10 堕ちた天使",
+          "episode_desc": "主人公はコレットに何度も助けを乞うが……　そして、スクラによって天界から放り落とされたリルムが落ちた先には……。",
+          "label": "midoga_7_10_2"
+        }
+      ]
+    },
+    {
+      "story_name": "第8話 二人で一つの",
+      "url": "https://res.midogar.saikyo.biz/img/episode/a/ep_001_008.png",
+      "episode_list": [
+        {
+          "episode_title": "story 1 反逆の堕天使",
+          "episode_desc": "タミュエルと出会ったリルムは、タミュエルが堕天使になった理由を伺う。",
+          "label": "midoga_8_1_1"
+        },
+        {
+          "episode_title": "story 3 ルドラムへの帰還",
+          "episode_desc": "タミュエルによってリルムは、ルドラムの街へと戻っていた。そこでディアネットと再会する。",
+          "label": "midoga_8_2_1"
+        },
+        {
+          "episode_title": "story 5 リルムの想い",
+          "episode_desc": "平静を保とうと天使と戦うことを決めたリルムは、ルドラムの魔物にその決意を伝えるが……。",
+          "label": "midoga_8_3_1"
+        },
+        {
+          "episode_title": "story 7 アンジェロスの怒り",
+          "episode_desc": "魔物たちによる侵攻にアンジェロスは苛立ちが増幅する。",
+          "label": "midoga_8_4_1"
+        },
+        {
+          "episode_title": "story 10 天魔死闘の果て",
+          "episode_desc": "アンジェロスとの戦いに、ついに決着の時が訪れる……。",
+          "label": "midoga_8_5_2"
+        }
+      ]
+    }
+  ]
+}

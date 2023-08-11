@@ -1,7 +1,6 @@
-/target
-/api
-/app_data
-/img
-/swf
+/target/
+/app_data/
+!/app_data/index.html
+/img/
+/swf/
 Cargo.lock
-config.json

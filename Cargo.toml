@@ -10,3 +10,7 @@ lazy_static = "1"
 serde = { version = "1", features = ["derive"] }
 serde_json = "1"
 upon = { version = "0", default-features = false, features = ["serde"] }
+
+[profile.release]
+strip = "symbols"
+lto = "fat"

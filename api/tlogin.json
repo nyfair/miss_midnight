@@ -1,0 +1,11 @@
+{
+  "page": "login",
+  "error_flg": 0,
+  "tutorial_clear_flg": "1",
+  "bg_volume": "{{ bg_volume }}",
+  "se_volume": "{{ se_volume }}",
+  "voice_volume": "{{ voice_volume }}",
+  "mute_flg": "0",
+  "battle_speed": "4",
+  "battle_auto": "0"
+}

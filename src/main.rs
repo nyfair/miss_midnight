@@ -50,13 +50,7 @@ lazy_static::lazy_static! {
 
 #[post("/api/api/login")]
 async fn alogin() -> impl Responder {
-  h200! {r#"
-    {
-      "page": "user_login",
-      "error_flg": 0,
-    }
-    "#
-  }
+  h200! {"{\"page\":\"user_login\",\"error_flg\": 0}"}
 }
 
 api!{"/title/login", tlogin}

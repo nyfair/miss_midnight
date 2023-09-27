@@ -1440,6 +1440,80 @@
       "story_tab_type": 2
     },
     {
+      "story_name": "第2部 8章 魔と錬の国",
+      "url": "https://res.midogar.saikyo.biz/img/story/19.png",
+      "episode_list": [
+        {
+          "episode_title": "魔と錬の国　1",
+          "episode_desc": "順調に航行を続ける飛行艇。しかしある朝、飛行高度が下がっていることにリネッタが気づく。",
+          "label": "midoga_r_e_230921_1_1",
+          "h": false
+        },
+        {
+          "episode_title": "魔と錬の国　2",
+          "episode_desc": "船に潜り込んでいたチロに言われ、コレットは船がある国の上を通っていることに気づく。コレットらしからぬいきり立った様子に戸惑う一同だが――",
+          "label": "midoga_r_e_230921_2_1",
+          "h": false
+        },
+        {
+          "episode_title": "魔と錬の国　3",
+          "episode_desc": "船は開けた森へと墜落してしまった。互いの無事を確認する一同だが、襲撃者らしき者たちの声が聞こえてきて慌てて逃げることに。",
+          "label": "midoga_r_e_230921_3_1",
+          "h": false
+        },
+        {
+          "episode_title": "魔と錬の国　4",
+          "episode_desc": "キリルに事情を話すリルムたち。するとキリルには何やら思い当たることがあるようで、コレット救出の手がかりを掴む。",
+          "label": "midoga_r_e_230921_4_1",
+          "h": false
+        },
+        {
+          "episode_title": "魔と錬の国　5",
+          "episode_desc": "アルキュミア魔術学校での調査をキリルに任せ、コレット奪取の方法を考える一行。しかしその様子を、見ているウィッチの姿があった――",
+          "label": "midoga_r_e_230921_5_1",
+          "h": false
+        },
+        {
+          "episode_title": "魔と錬の国　6",
+          "episode_desc": "リネッタから状況説明を受ける一行だが、その表情は曇りがちであった。リネッタは甘い飲み物を淹れながら、一行に話を続ける。",
+          "label": "midoga_r_e_230921_6_1",
+          "h": false
+        },
+        {
+          "episode_title": "魔と錬の国　7",
+          "episode_desc": "リルムたちと落ち合ったキリルの様子がおかしい。ニカの言葉にキリルの瞳が揺れ、感情を吐露し始める。",
+          "label": "midoga_r_e_230921_7_1",
+          "h": false
+        },
+        {
+          "episode_title": "魔と錬の国　8",
+          "episode_desc": "ミルラとアスターを打ち破ったリルムたち。構内を進むとあるウィッチが姿を表す。その先に――捩じ曲がった友情の終着点があった。",
+          "label": "midoga_r_e_230921_8_1",
+          "h": false
+        },
+        {
+          "episode_title": "魔と錬の国　9",
+          "episode_desc": "ヘルメス校長は訪問者を受け入れる。全ては予定調和であった。そして彼女はコレットの封じ込めていた過去について話し出す。",
+          "label": "midoga_r_e_230921_9_1",
+          "h": false
+        },
+        {
+          "episode_title": "魔と錬の国　10",
+          "episode_desc": "敗北Hシーンあり♥　もはや長年にわたり積もりきった感情たちは、歪な方法でしか触れ合えない。それでも、受け入れた先に2人の未来があった。",
+          "label": "midoga_r_e_230921_10_1",
+          "h": false
+        },
+        {
+          "episode_title": "魔と錬の国　10 敗北",
+          "episode_desc": "※ story 10 魔と錬の国　10 にて敗北した",
+          "label": "chara_e100423_1",
+          "close": 0,
+          "h": false
+        }
+      ],
+      "story_tab_type": 2
+    },
+    {
       "story_name": "花びらの舞う幼き国",
       "url": "https://res.midogar.saikyo.biz/img/bnr/event/bnr_20200630_01_01.png",
       "episode_list": [
@@ -6064,6 +6138,6 @@
         }
       ],
       "story_tab_type": 3
-    }
+        }
   ]
 }

@@ -6138,6 +6138,80 @@
         }
       ],
       "story_tab_type": 3
+    },
+    {
+      "story_name": "大怪盗ファントム現る！～前編～",
+      "url": "https://res.midogar.saikyo.biz/img/bnr/event/bnr_20230928_01_01.png",
+      "episode_list": [
+        {
+          "episode_title": "ep.1 大怪盗ファントム現る！～前編～1",
+          "episode_desc": "蒸気の国のシャルル邸へ怪盗から、犯行予告状が届いた。その予告状には謎の数字が羅列してあり――",
+          "label": "midoga_r_e_230928_1_1",
+          "h": false
+        },
+        {
+          "episode_title": "ep.3 大怪盗ファントム現る！～前編～3",
+          "episode_desc": "警察はケットシー家からの通報によって対策部を設ける。しかし魔物手が足りず、探偵に委任したいとの意見が出て――",
+          "label": "midoga_r_e_230928_2_1",
+          "h": false
+        },
+        {
+          "episode_title": "ep.5 大怪盗ファントム現る！～前編～5",
+          "episode_desc": "ポルカから事件の詳細を聞く探偵のシベット。さっそく調査に乗り出そうとするが思わぬトラブルに巻き込まれる。",
+          "label": "midoga_r_e_230928_3_1",
+          "h": false
+        },
+        {
+          "episode_title": "ep.7 大怪盗ファントム現る！～前編～7",
+          "episode_desc": "犯行予告が送られたシャルル邸へと向かったシベットだが、そこには外部の介入を拒む警察の関係者がいて――",
+          "label": "midoga_r_e_230928_4_1",
+          "h": false
+        },
+        {
+          "episode_title": "ep.10 大怪盗ファントム現る！～前編～10",
+          "episode_desc": "警察に追い出され、教会近くで思い悩むシベット。そこにシスターたちの思わぬ助力をもらうことに。",
+          "label": "midoga_r_e_230928_5_1",
+          "h": false
         }
+      ],
+      "story_tab_type": 3
+    },
+    {
+      "story_name": "大怪盗ファントム現る！～後編～",
+      "url": "https://res.midogar.saikyo.biz/img/bnr/event/bnr_20230928_01_01.png",
+      "episode_list": [
+        {
+          "episode_title": "ep.1 大怪盗ファントム現る！～後編～1",
+          "episode_desc": "水面の国から来たというシスターのディープ。八方塞がりの中、彼女が提案した策とは？",
+          "label": "midoga_r_e_230928_6_1",
+          "h": false
+        },
+        {
+          "episode_title": "ep.3 大怪盗ファントム現る！～後編～3",
+          "episode_desc": "目的の場所へ足を進めるも、ひとり、またひとりと障害が立ちはだかる……。",
+          "label": "midoga_r_e_230928_7_1",
+          "h": false
+        },
+        {
+          "episode_title": "ep.5 大怪盗ファントム現る！～後編～5",
+          "episode_desc": "ついに相対したファントム。さあ、謎解きの時間は終わりだ。",
+          "label": "midoga_r_e_230928_8_1",
+          "h": false
+        },
+        {
+          "episode_title": "ep.7 大怪盗ファントム現る！～後編～7",
+          "episode_desc": "怪盗と探偵の熱い駆け引き。シベットたちは無事、ファントムを捕えられるのか。",
+          "label": "midoga_r_e_230928_9_1",
+          "h": false
+        },
+        {
+          "episode_title": "ep.10 大怪盗ファントム現る！～後編～10",
+          "episode_desc": "後日談。もう一つの真相。",
+          "label": "midoga_r_e_230928_10_1",
+          "h": false
+        }
+      ],
+      "story_tab_type": 3
+    }
   ]
 }

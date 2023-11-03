@@ -4,53 +4,54 @@
   "name": "あなた",
   "bg_url": "https://res.midogar.saikyo.biz/img/bg/a/bg_10_08_01_a.jpg",
   "title_url": "https://res.midogar.saikyo.biz/img/home_title/home_title_000050.png",
-  "icon_url": "https://res.midogar.saikyo.biz/img/home_character/a/hme_01_00196_01_a.png",
-  "set_icon_chara_id": "196",
+  "icon_url": "https://res.midogar.saikyo.biz/img/character/a/chr_01_0435_02_a.png",
+  "set_icon_chara_id": "50435",
+  "set_icon_chara_type": "4",
   "bgm_name": "mypage",
   "bg_volume": "30",
   "se_volume": "50",
   "voice_volume": "50",
   "voice_list_home": [
     [
-      "voice_00053_",
+      "voice_00435_",
       "02_00001"
     ]
   ],
   "voice_list_touch": [
     [
-      "voice_00053_",
+      "voice_00435_",
       "02_00002",
       100
     ],
     [
-      "voice_00053_",
+      "voice_00435_",
       "02_00003",
       100
     ],
     [
-      "voice_00053_",
+      "voice_00435_",
       "02_00004",
       10
     ],
     [
-      "voice_00053_",
+      "voice_00435_",
       "02_00005",
       30
     ],
     [
-      "voice_00053_",
+      "voice_00435_",
       "02_00006",
       100
     ],
     [
-      "voice_00053_",
+      "voice_00435_",
       "02_00007",
       50
     ]
   ],
   "voice_list_profile": [
     [
-      "voice_00053_",
+      "voice_00435_",
       "02_00008"
     ]
   ]

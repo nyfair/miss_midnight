@@ -6212,6 +6212,80 @@
         }
       ],
       "story_tab_type": 3
+    },
+    {
+      "story_name": "MASQUERADE　HALLOWEEN 前編",
+      "url": "https://res.midogar.saikyo.biz/img/bnr/event/bnr_20231023_01_01.png",
+      "episode_list": [
+        {
+          "episode_title": "ep.1 MASQUERADE　HALLOWEEN～前編～1",
+          "episode_desc": "一度飛行艇を着陸させ、整備調査を行うことにした一行。待機時間にアンジェロスはある場所へと出向くことに。",
+          "label": "midoga_r_e_231023_01_1",
+          "h": false
+        },
+        {
+          "episode_title": "ep.3 MASQUERADE　HALLOWEEN～前編～3",
+          "episode_desc": "陽のさす国に辿り着いたアンジェロス、ニカ、{{ name }}の3人。しかしそこに飛び出してきたのは不思議な天使で――？",
+          "label": "midoga_r_e_231023_02_1",
+          "h": false
+        },
+        {
+          "episode_title": "ep.5 MASQUERADE　HALLOWEEN～前編～5",
+          "episode_desc": "{{ name }}たちが訪れる少し前の出来事。ジャンナは単身、国から抜け出し当てどもなく彷徨っていた。",
+          "label": "midoga_r_e_231023_03_1",
+          "h": false
+        },
+        {
+          "episode_title": "ep.7 MASQUERADE　HALLOWEEN～前編～7",
+          "episode_desc": "ナートに案内されながら、一行は陽のさす国でハロウィーンパーティーが行われることを知る。シスシアたちの要望で仮装することを意外にもアンジェロスは受け入れることに。",
+          "label": "midoga_r_e_231023_04_1",
+          "h": false
+        },
+        {
+          "episode_title": "ep.10 MASQUERADE　HALLOWEEN～前編～10",
+          "episode_desc": "ぞくぞくと準備は進み、ハロウィーンの雰囲気に国が包まれる。しかしこの場にいない者の謎の影もちらついており――？",
+          "label": "midoga_r_e_231023_05_1",
+          "h": false
+        }
+      ],
+      "story_tab_type": 3
+    },
+    {
+      "story_name": "MASQUERADE　HALLOWEEN 後編",
+      "url": "https://res.midogar.saikyo.biz/img/bnr/event/bnr_20231023_01_01.png",
+      "episode_list": [
+        {
+          "episode_title": "ep.1 MASQUERADE　HALLOWEEN～後編～1",
+          "episode_desc": "待ってましたとばかりに飛び出してきたのは特殊性癖を持つサキュバスであった。",
+          "label": "midoga_r_e_231023_06_1",
+          "h": false
+        },
+        {
+          "episode_title": "ep.3 MASQUERADE　HALLOWEEN～後編～3",
+          "episode_desc": "ウリエルたちが感じていた気配は一つではなかった。もう1人の訪問者がその場に招待される。",
+          "label": "midoga_r_e_231023_07_1",
+          "h": false
+        },
+        {
+          "episode_title": "ep.5 MASQUERADE　HALLOWEEN～後編～5",
+          "episode_desc": "すれ違っていた2人の魔物たちの道が、今交差する。",
+          "label": "midoga_r_e_231023_08_1",
+          "h": false
+        },
+        {
+          "episode_title": "ep.7 MASQUERADE　HALLOWEEN～後編～7",
+          "episode_desc": "墓地での不思議なハロウィンパーティーを皆が楽しんだ。",
+          "label": "midoga_r_e_231023_09_1",
+          "h": false
+        },
+        {
+          "episode_title": "ep.10 MASQUERADE　HALLOWEEN～後編～10",
+          "episode_desc": "陽のさす国を後にするニカたち。帰路の途中で、ニカは答えをアンジェロスへと示す。",
+          "label": "midoga_r_e_231023_10_1",
+          "h": false
+        }
+      ],
+      "story_tab_type": 3
     }
   ]
 }

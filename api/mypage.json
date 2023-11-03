@@ -32,7 +32,7 @@
     "class_id": 2,
     "rank": "1",
     "sex": "1",
-    "cost": 177,
+    "cost": 100,
     "party_id": "1",
     "grow_point": "0",
     "gacha_point": "0",
@@ -125,7 +125,7 @@
     "class_rank": 1,
     "class_url": "",
     "class_url_large": "",
-    "exp_max": 369000,
+    "exp_max": 100000,
     "stamina_source_max": 36000,
     "stamina_max": 100,
     "define_stamina": 120,
@@ -153,6 +153,7 @@
     "user_class_url": null,
     "icon_url": "{{ icon_url }}",
     "set_icon_chara_id": "{{ set_icon_chara_id }}",
+    "set_icon_chara_type": "{{ set_icon_chara_type }}",
     "bgm_name": "{{ bgm_name }}",
     "voice_list_home": [
       {% for voice in voice_list_home %}[

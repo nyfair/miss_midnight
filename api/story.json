@@ -6286,6 +6286,117 @@
         }
       ],
       "story_tab_type": 3
+    },
+    {
+      "story_name": "祓い祓われ巫女契約 後編",
+      "url": "https://res.midogar.saikyo.biz/img/bnr/event/bnr_20221228_01_01.png",
+      "episode_list": [
+        {
+          "episode_title": "ep.1 祓い祓われ巫女契約（後編）1",
+          "episode_desc": "三が日の参拝に備えて半泣きで準備を続ける撫子。そんな中神社にまた1人導かれた魔物、カオがやってくる。",
+          "label": "midoga_r_e_221228_10_6",
+          "h": false
+        },
+        {
+          "episode_title": "ep.3 祓い祓われ巫女契約（後編）3",
+          "episode_desc": "天界も地上と同じく新年を祝う祭りの最中であった。ハナエルはオルテガの任務を代わりに請け負い、地上へと降りていく。",
+          "label": "midoga_r_e_221228_10_7",
+          "h": false
+        },
+        {
+          "episode_title": "ep.5 祓い祓われ巫女契約（後編）5",
+          "episode_desc": "無事、元旦の参拝者たちを迎え入れる準備を終え、ほっとしたのもつかの間。想定よりも激しい混雑の中で、騒動の種が生まれてしまう。",
+          "label": "midoga_r_e_221228_10_8",
+          "h": false
+        },
+        {
+          "episode_title": "ep.7 祓い祓われ巫女契約（後編）7",
+          "episode_desc": "乱闘騒ぎも落ちつき、{{ name }}は挨拶に来てくれた青藍と新年の挨拶を交わした。",
+          "label": "midoga_r_e_221228_10_9",
+          "h": false
+        },
+        {
+          "episode_title": "ep.10 祓い祓われ巫女契約（後編）10",
+          "episode_desc": "改めて一段落した神社。撫子は疲れた体をぐっと伸ばしながらも、満たされた気持ちになっていた。",
+          "label": "midoga_r_e_221228_10_10",
+          "h": false
+        }
+      ],
+      "story_tab_type": 3
+    },
+    {
+      "story_name": "ルーレットにその身を委ねて 前編",
+      "url": "https://res.midogar.saikyo.biz/img/bnr/event/bnr_20231122_01_01.png",
+      "episode_list": [
+        {
+          "episode_title": "ep.1 ルーレットにその身を委ねて～前編～1",
+          "episode_desc": "記事のネタになりそうだと調査に赴くカレンとジュリエット。そこは未だ見ぬ豪華絢爛の超巨大カジノだった。",
+          "label": "midoga_r_e_231122_1_1",
+          "h": false
+        },
+        {
+          "episode_title": "ep.3 ルーレットにその身を委ねて～前編～3",
+          "episode_desc": "カレンとはぐれてしまったジュリエット。カジノに迷い込んだと言う謎の女性。ほんのり、不穏な気配。",
+          "label": "midoga_r_e_231122_2_1",
+          "h": false
+        },
+        {
+          "episode_title": "ep.5 ルーレットにその身を委ねて～前編～5",
+          "episode_desc": "薄暗い通路を抜け、カジノの真実に迫る。",
+          "label": "midoga_r_e_231122_3_1",
+          "h": false
+        },
+        {
+          "episode_title": "ep.7 ルーレットにその身を委ねて～前編～7",
+          "episode_desc": "ジュリエットに全てを託して、協力と犠牲は後の勝利への布石。",
+          "label": "midoga_r_e_231122_4_1",
+          "h": false
+        },
+        {
+          "episode_title": "ep.10 ルーレットにその身を委ねて～前編～10",
+          "episode_desc": "唐突なポーカー対決！　エノテラの秘めたる目的とは――",
+          "label": "midoga_r_e_231122_5_1",
+          "h": false
+        }
+      ],
+      "story_tab_type": 3
+    },
+    {
+      "story_name": "ルーレットにその身を委ねて 後編",
+      "url": "https://res.midogar.saikyo.biz/img/bnr/event/bnr_20231122_01_01.png",
+      "episode_list": [
+        {
+          "episode_title": "ep.1 ルーレットにその身を委ねて～後編～1",
+          "episode_desc": "いざ決意を新たに、未踏の賭博場『VIPルーム』へ！",
+          "label": "midoga_r_e_231122_6_1",
+          "h": false
+        },
+        {
+          "episode_title": "ep.3 ルーレットにその身を委ねて～後編～3",
+          "episode_desc": "伸るか反るか、ジュリエットとウィールの壮絶な駆け引き。",
+          "label": "midoga_r_e_231122_7_1",
+          "h": false
+        },
+        {
+          "episode_title": "ep.5 ルーレットにその身を委ねて～後編～5",
+          "episode_desc": "明かされる真実、忍び寄る影、もしかして絶体絶命？",
+          "label": "midoga_r_e_231122_8_1",
+          "h": false
+        },
+        {
+          "episode_title": "ep.7 ルーレットにその身を委ねて～後編～7",
+          "episode_desc": "突如開催された大規模イベント、不敵に嗤うクレーゼの狙いは……？",
+          "label": "midoga_r_e_231122_9_1",
+          "h": false
+        },
+        {
+          "episode_title": "ep.10 ルーレットにその身を委ねて～後編～10",
+          "episode_desc": "託されたものは変わらずここに……ルーレットにその身を委ねて！",
+          "label": "midoga_r_e_231122_10_1",
+          "h": false
+        }
+      ],
+      "story_tab_type": 3
     }
   ]
 }

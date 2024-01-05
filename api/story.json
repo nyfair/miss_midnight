@@ -6397,6 +6397,130 @@
         }
       ],
       "story_tab_type": 3
+    },
+    {
+      "story_name": "ルーレットにその身を委ねて\n～追加ストーリー～",
+      "url": "https://res.midogar.saikyo.biz/img/bnr/event/bnr_20231122_01_01.png",
+      "episode_list": [
+        {
+          "episode_title": "ep.11 ルーレットにその身を委ねて～追加ストーリー～",
+          "episode_desc": "ジュリエットたちに敗北し、カジノを追われたクレーゼ。仲間たちの真意など知る由もないまま、新たなビジネスを求め続ける。",
+          "label": "midoga_r_e_231122_11_1",
+          "h": false
+        }
+      ],
+      "story_tab_type": 3
+    },
+    {
+      "story_name": "聖歌隊と響く鈴の音",
+      "url": "https://res.midogar.saikyo.biz/img/bnr/event/bnr_20231212_01_01.png",
+      "episode_list": [
+        {
+          "episode_title": "ep.1 聖歌隊と響く鈴の音1",
+          "episode_desc": "ソフィアによって聖歌隊のリーダーに任命されてしまったニコラ。彼女のもとに集う今年の良い子とは……。",
+          "label": "midoga_r_e_231214_01_1",
+          "h": false
+        },
+        {
+          "episode_title": "ep.3 聖歌隊と響く鈴の音3",
+          "episode_desc": "初めての外の世界、初めてのプレゼント。トラブルに見舞われながらも協力して乗り切る。",
+          "label": "midoga_r_e_231214_02_1",
+          "h": false
+        },
+        {
+          "episode_title": "ep.5 聖歌隊と響く鈴の音5",
+          "episode_desc": "子供の心を掴む、ただそれのみ――！",
+          "label": "midoga_r_e_231214_03_1",
+          "h": false
+        },
+        {
+          "episode_title": "ep.7 聖歌隊と響く鈴の音7",
+          "episode_desc": "様々な経験を重ねてニコラは、周りを笑顔にできるサンタとして成長していく。",
+          "label": "midoga_r_e_231214_04_1",
+          "h": false
+        },
+        {
+          "episode_title": "ep.10 聖歌隊と響く鈴の音10",
+          "episode_desc": "少女は鈴を鳴らしづづける。たとえ記憶に残らずとも――",
+          "label": "midoga_r_e_231214_05_1",
+          "h": false
+        }
+      ],
+      "story_tab_type": 3
+    },
+    {
+      "story_name": "お祈り申す！祭神様！\n前編",
+      "url": "https://res.midogar.saikyo.biz/img/bnr/event/bnr_20231228_01_01.png",
+      "episode_list": [
+        {
+          "episode_title": "ep.1 お祈り申す！祭神様！～前編～1",
+          "episode_desc": "山の上という辺鄙な場所にある寂れた神社で、神主と桔梗と巫女の若紫はなんとか参拝客を集められないかと頭を悩ませていた。",
+          "label": "midoga_r_e_231228_01_1",
+          "h": false
+        },
+        {
+          "episode_title": "ep.3 お祈り申す！祭神様！～前編～3",
+          "episode_desc": "同業者の撫子を迎え入れ、助言をもらおうとする桔梗たち。しかしながら土地の不便さだけではなく、久留米神社には重大な『欠け』があった。",
+          "label": "midoga_r_e_231228_02_1",
+          "h": false
+        },
+        {
+          "episode_title": "ep.5 お祈り申す！祭神様！～前編～5",
+          "episode_desc": "祭神探しに出た桔梗と若紫だが、2人が声をかけた相手にはクセが強すぎる妖怪が多かった……。",
+          "label": "midoga_r_e_231228_03_1",
+          "h": false
+        },
+        {
+          "episode_title": "ep.7 お祈り申す！祭神様！～前編～7",
+          "episode_desc": "何の収穫もなく、肩を落として神社に戻ってきた桔梗と若紫。そこで大きな物音が響き渡り――",
+          "label": "midoga_r_e_231228_04_1",
+          "h": false
+        },
+        {
+          "episode_title": "ep.10 お祈り申す！祭神様！～前編～10",
+          "episode_desc": "ジャイアントクジラ娘のオーリス(本人は少し大きなサキュバスだと自認している)を見て、桔梗の瞳は輝き出した。この者こそが、祭神に相応しいと――",
+          "label": "midoga_r_e_231228_05_1",
+          "h": false
+        }
+      ],
+      "story_tab_type": 3
+    },
+    {
+      "story_name": "お祈り申す！祭神様！\n後編",
+      "url": "https://res.midogar.saikyo.biz/img/bnr/event/bnr_20231228_01_01.png",
+      "episode_list": [
+        {
+          "episode_title": "ep.1 お祈り申す！祭神様！～後編～1",
+          "episode_desc": "ところ変わって水面の国。国を牛耳る堕天使エペハザは他国との繋がりについて頭を悩ませていた。",
+          "label": "midoga_r_e_231228_06_1",
+          "h": false
+        },
+        {
+          "episode_title": "ep.3 お祈り申す！祭神様！～後編～3",
+          "episode_desc": "時を同じくして幼き国でも、外国との繋がりを求めて使者が旅立とうとしていた。",
+          "label": "midoga_r_e_231228_07_1",
+          "h": false
+        },
+        {
+          "episode_title": "ep.5 お祈り申す！祭神様！～後編～5",
+          "episode_desc": "久留米神社に手伝いの面々――やがては神の使いとなる魔物たちが集まってきた。",
+          "label": "midoga_r_e_231228_08_1",
+          "h": false
+        },
+        {
+          "episode_title": "ep.7 お祈り申す！祭神様！～後編～7",
+          "episode_desc": "年末詣にやってきた人間の参拝客たち。しかしその神社は彼女たちのイメージするものとは大きく異なっており――",
+          "label": "midoga_r_e_231228_09_1",
+          "h": false
+        },
+        {
+          "episode_title": "ep.10 お祈り申す！祭神様！～後編～10",
+          "episode_desc": "三が日を終えた久留米神社。そこでは少女たちが和気あいあいと互いの労をねぎらっていた。新たな年の幕開けである",
+          "label": "midoga_r_e_231228_10_1",
+          "h": false
+        }
+      ],
+      "story_tab_type": 3
     }
   ]
 }

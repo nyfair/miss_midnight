@@ -1514,6 +1514,117 @@
       "story_tab_type": 2
     },
     {
+      "story_name": "第2部 8.5章 不完全を愛して",
+      "url": "https://res.midogar.saikyo.biz/img/story/20.png",
+      "episode_list": [
+        {
+          "episode_title": "不完全を愛して　0",
+          "episode_desc": "ママ…私は新しい私になっていくよ。それでも本当に愛してくれる？",
+          "label": "midoga_r_e_240111_0_1",
+          "close": 0,
+          "h": false
+        },
+        {
+          "episode_title": "不完全を愛して　1",
+          "episode_desc": "魔と錬の国を旅立ち、最初の補給地として指定された座標には砂漠が広がっていた。",
+          "label": "midoga_r_e_240111_1_1",
+          "h": false
+        },
+        {
+          "episode_title": "不完全を愛して　3",
+          "episode_desc": "自分に違和感を覚えるトロンだが、ザカットと対峙してその違和感はさらに大きくなっていく。",
+          "label": "midoga_r_e_240111_2_1",
+          "h": false
+        },
+        {
+          "episode_title": "不完全を愛して　5",
+          "episode_desc": "夕焼けの空を飛びながら、トロンは1人考える。自分は何者なのかと――",
+          "label": "midoga_r_e_240111_3_1",
+          "h": false
+        },
+        {
+          "episode_title": "不完全を愛して　7",
+          "episode_desc": "拠点へと戻ってきたトロンは、リルムたちと『パラドクス』の話をすることに。",
+          "label": "midoga_r_e_240111_4_1",
+          "h": false
+        },
+        {
+          "episode_title": "不完全を愛して　10",
+          "episode_desc": "トロンの心は変わり始める。旅の理由を、自分の中に見つけて――",
+          "label": "midoga_r_e_240111_5_1",
+          "h": false
+        }
+      ],
+      "story_tab_type": 2
+    },
+    {
+      "story_name": "第2部 9章 金原の国",
+      "url": "https://res.midogar.saikyo.biz/img/story/21.png",
+      "episode_list": [
+        {
+          "episode_title": "金原の国　1",
+          "episode_desc": "補給を終え、出発した一行。トロンも少しずつ馴染んでいる姿を見せるが、そこに一通の手紙が届いて一同は騒然となる。",
+          "label": "midoga_r_e_240208_10_1",
+          "h": false
+        },
+        {
+          "episode_title": "金原の国　2",
+          "episode_desc": "謎の白兎に襲われていた一行の疑いはすぐ晴れた。しかし、そのまま里に連れて行かれてしまい――。",
+          "label": "midoga_r_e_240208_10_2",
+          "h": false
+        },
+        {
+          "episode_title": "金原の国　3",
+          "episode_desc": "白兎の里と同じく、白狐の里でもリルムたちの訪問は預かり知るところとなっていた。狐族の中でも思惑は錯綜しており、老いた空狐がその欲望を覗かせる。",
+          "label": "midoga_r_e_240208_10_3",
+          "h": false
+        },
+        {
+          "episode_title": "金原の国　4",
+          "episode_desc": "軟禁状態が続く一行。白兎達は優しく接してくれるが、戦中のためかどこか緊張が張り詰めている。",
+          "label": "midoga_r_e_240208_10_4",
+          "h": false
+        },
+        {
+          "episode_title": "金原の国　5",
+          "episode_desc": "斬残夜に促され、屋敷へと避難したリルム達。斬残夜との対話を試みる。",
+          "label": "midoga_r_e_240208_10_5",
+          "h": false
+        },
+        {
+          "episode_title": "金原の国　6",
+          "episode_desc": "長老たちに呼ばれ、一度離席して戻った斬残夜の表情は硬い。さらにリルムたちに厳しい条件がつきつけられてしまう。",
+          "label": "midoga_r_e_240208_10_6",
+          "h": false
+        },
+        {
+          "episode_title": "金原の国　7",
+          "episode_desc": "斬残夜の気配が消えたのを確認し、一行は一気に作戦会議を進め、ある決断を下す。",
+          "label": "midoga_r_e_240208_10_7",
+          "h": false
+        },
+        {
+          "episode_title": "金原の国　8",
+          "episode_desc": "トロン、ニカ、{{ name }}はひたすら山を駆けていく。しかし追手の気配は遠ざかるどころか近づき始めた。",
+          "label": "midoga_r_e_240208_10_8",
+          "h": false
+        },
+        {
+          "episode_title": "金原の国　9",
+          "episode_desc": "榊に案内されるも、いつ攻撃されるかも分からぬ険しい山道を歩き続け人間の2人は疲労が溜まっていた。",
+          "label": "midoga_r_e_240208_10_9",
+          "h": false
+        },
+        {
+          "episode_title": "金原の国　10",
+          "episode_desc": "白狐の里で、一行は取引を持ちかけられる。あなたの判断が、未来を決めるだろう。",
+          "label": "midoga_r_e_240208_10_10",
+          "h": false
+        }
+      ],
+      "story_tab_type": 2
+    },
+    {
       "story_name": "花びらの舞う幼き国",
       "url": "https://res.midogar.saikyo.biz/img/bnr/event/bnr_20200630_01_01.png",
       "episode_list": [
@@ -6517,6 +6628,80 @@
           "episode_title": "ep.10 お祈り申す！祭神様！～後編～10",
           "episode_desc": "三が日を終えた久留米神社。そこでは少女たちが和気あいあいと互いの労をねぎらっていた。新たな年の幕開けである",
           "label": "midoga_r_e_231228_10_1",
+          "h": false
+        }
+      ],
+      "story_tab_type": 3
+    },
+    {
+      "story_name": "お世話の押し売りは\nメイドズにお任せ（前編）",
+      "url": "https://res.midogar.saikyo.biz/img/bnr/event/bnr_20240125_01_01.png",
+      "episode_list": [
+        {
+          "episode_title": "ep.1 お世話の押し売りはメイドズにお任せ（前編）1",
+          "episode_desc": "久々に一人でゆったりしようと拠点へ帰る{{ name }}。静かな休暇を謳歌できるのだろうか……",
+          "label": "midoga_r_e_240125_10_1",
+          "h": false
+        },
+        {
+          "episode_title": "ep.3 お世話の押し売りはメイドズにお任せ（前編）3",
+          "episode_desc": "押しかけメイドたちの依頼主、その正体と目的は……？",
+          "label": "midoga_r_e_240125_10_2",
+          "h": false
+        },
+        {
+          "episode_title": "ep.5 お世話の押し売りはメイドズにお任せ（前編）5",
+          "episode_desc": "コレットに恩返しをしたい{{ name }}は、とある案を思いつく。",
+          "label": "midoga_r_e_240125_10_3",
+          "h": false
+        },
+        {
+          "episode_title": "ep.7 お世話の押し売りはメイドズにお任せ（前編）7",
+          "episode_desc": "{{ name }}を▓▓▓▓▓にしてしまうメリア。彼女の胸に秘めた想いを打ち明けさせる者は――",
+          "label": "midoga_r_e_240125_10_4",
+          "h": false
+        },
+        {
+          "episode_title": "ep.10 お世話の押し売りはメイドズにお任せ（前編）10",
+          "episode_desc": "ひとまず大団円！　経営も順調かと思った矢先、プライとミニアは――ことに。",
+          "label": "midoga_r_e_240125_10_5",
+          "h": false
+        }
+      ],
+      "story_tab_type": 3
+    },
+    {
+      "story_name": "お世話の押し売りは\nメイドズにお任せ（後編）",
+      "url": "https://res.midogar.saikyo.biz/img/bnr/event/bnr_20240125_01_01.png",
+      "episode_list": [
+        {
+          "episode_title": "ep.1 お世話の押し売りはメイドズにお任せ（後編）1",
+          "episode_desc": "リルムの誤解を解く{{ name }}、新たに集うメイドたち。メイド喫茶を成功させるにはどうすればいいのだろうか。",
+          "label": "midoga_r_e_240125_10_6",
+          "h": false
+        },
+        {
+          "episode_title": "ep.3 お世話の押し売りはメイドズにお任せ（後編）3",
+          "episode_desc": "客は増えるもトラブル勃発！？　不安は的中か、どうする{{ name }}――",
+          "label": "midoga_r_e_240125_10_7",
+          "h": false
+        },
+        {
+          "episode_title": "ep.5 お世話の押し売りはメイドズにお任せ（後編）5",
+          "episode_desc": "ミニアとの約束を回想するメリア。彼女の中に生じる一つの変化は。",
+          "label": "midoga_r_e_240125_10_8",
+          "h": false
+        },
+        {
+          "episode_title": "ep.7 お世話の押し売りはメイドズにお任せ（後編）7",
+          "episode_desc": "{{ name }}の覚悟に共感したクレーゼ。彼女が提案する一つの作戦とは…？？",
+          "label": "midoga_r_e_240125_10_9",
+          "h": false
+        },
+        {
+          "episode_title": "ep.10 お世話の押し売りはメイドズにお任せ（後編）10",
+          "episode_desc": "メリアの決断。愛とは何なのかそれぞれの主張が飛び交う。一方、リルムと{{ name }}は……",
+          "label": "midoga_r_e_240125_10_10",
           "h": false
         }
       ],

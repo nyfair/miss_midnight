@@ -6706,6 +6706,147 @@
         }
       ],
       "story_tab_type": 3
+    },
+    {
+      "story_name": "スピードに誇りをかけて\n（前編）",
+      "url": "https://res.midogar.saikyo.biz/img/bnr/event/bnr_20240221_1.png",
+      "episode_list": [
+        {
+          "episode_title": "ep.1 スピードに誇りをかけて（前編）1",
+          "episode_desc": "突然届いた名無しの手紙。それは、本来届くはずのない場所からのもので……。",
+          "label": "midoga_r_e_240221_10_1",
+          "h": false
+        },
+        {
+          "episode_title": "ep.3 スピードに誇りをかけて（前編）3",
+          "episode_desc": "久方振りの夢幻の国へ、その世界は{{ name }}たちの知るものとはまったくの別物だった。",
+          "label": "midoga_r_e_240221_10_2",
+          "h": false
+        },
+        {
+          "episode_title": "ep.5 スピードに誇りをかけて（前編）5",
+          "episode_desc": "レースに参加することになった一行。夢の中ならなんだってできる！",
+          "label": "midoga_r_e_240221_10_3",
+          "h": false
+        },
+        {
+          "episode_title": "ep.7 スピードに誇りをかけて（前編）7",
+          "episode_desc": "それぞれが勝利を目指し、速さを求める最高のレースは遂に幕を開ける。",
+          "label": "midoga_r_e_240221_10_4",
+          "h": false
+        },
+        {
+          "episode_title": "ep.9 スピードに誇りをかけて（前編）9",
+          "episode_desc": "盛大に出遅れてしまった{{ name }}チーム、立ちはだかる障害はまさかの――",
+          "label": "midoga_r_e_240221_10_5",
+          "h": false
+        }
+      ],
+      "story_tab_type": 3
+    },
+    {
+      "story_name": "スピードに誇りをかけて\n（後編）",
+      "url": "https://res.midogar.saikyo.biz/img/bnr/event/bnr_20240221_1.png",
+      "episode_list": [
+        {
+          "episode_title": "ep.1 スピードに誇りをかけて（後編）1",
+          "episode_desc": "リルムたちとの勝負の行方は……？　細い道を越えた先にあるものは？",
+          "label": "midoga_r_e_240221_10_6",
+          "h": false
+        },
+        {
+          "episode_title": "ep.3 スピードに誇りをかけて（後編）3",
+          "episode_desc": "無限のフロヴィ、無限の分かれ道を踏破する彼らの先にある障害は……？",
+          "label": "midoga_r_e_240221_10_7",
+          "h": false
+        },
+        {
+          "episode_title": "ep.5 スピードに誇りをかけて（後編）5",
+          "episode_desc": "突如現れてはレースを乗っ取るムンティエとユエユエ。それでも出場者たちは突き進む。",
+          "label": "midoga_r_e_240221_10_8",
+          "h": false
+        },
+        {
+          "episode_title": "ep.7 スピードに誇りをかけて（後編）7",
+          "episode_desc": "それぞれに出来ることを尽くす。なんとしても目的を達成するため……。",
+          "label": "midoga_r_e_240221_10_9",
+          "h": false
+        },
+        {
+          "episode_title": "ep.10 スピードに誇りをかけて（後編）10",
+          "episode_desc": "最終決戦の行方。フェニルの狙いが意味するものは――",
+          "label": "midoga_r_e_240221_10_10",
+          "h": false
+        }
+      ],
+      "story_tab_type": 3
+    },
+    {
+      "story_name": "スピードに誇りをかけて\n（ストーリー）",
+      "url": "https://res.midogar.saikyo.biz/img/bnr/event/bnr_20240221_1.png",
+      "episode_list": [
+        {
+          "episode_title": "ep.1 スピードに誇りをかけて（ストーリー）1",
+          "episode_desc": "突然届いた名無しの手紙。それは、本来届くはずのない場所からのもので……。",
+          "label": "midoga_r_e_240221_10_1",
+          "h": false
+        },
+        {
+          "episode_title": "ep.2 スピードに誇りをかけて（ストーリー）2",
+          "episode_desc": "久方振りの夢幻の国へ、その世界は{{ name }}たちの知るものとはまったくの別物だった。",
+          "label": "midoga_r_e_240221_10_2",
+          "h": false
+        },
+        {
+          "episode_title": "ep.3 スピードに誇りをかけて（ストーリー）3",
+          "episode_desc": "レースに参加することになった一行。夢の中ならなんだってできる！",
+          "label": "midoga_r_e_240221_10_3",
+          "h": false
+        },
+        {
+          "episode_title": "ep.4 スピードに誇りをかけて（ストーリー）4",
+          "episode_desc": "それぞれが勝利を目指し、速さを求める最高のレースは遂に幕を開ける。",
+          "label": "midoga_r_e_240221_10_4",
+          "h": false
+        },
+        {
+          "episode_title": "ep.5 スピードに誇りをかけて（ストーリー）5",
+          "episode_desc": "盛大に出遅れてしまった{{ name }}チーム、立ちはだかる障害はまさかの――",
+          "label": "midoga_r_e_240221_10_5",
+          "h": false
+        },
+        {
+          "episode_title": "ep.6 スピードに誇りをかけて（ストーリー）6",
+          "episode_desc": "リルムたちとの勝負の行方は……？　細い道を越えた先にあるものは？",
+          "label": "midoga_r_e_240221_10_6",
+          "h": false
+        },
+        {
+          "episode_title": "ep.7 スピードに誇りをかけて（ストーリー）7",
+          "episode_desc": "無限のフロヴィ、無限の分かれ道を踏破する彼らの先にある障害は……？",
+          "label": "midoga_r_e_240221_10_7",
+          "h": false
+        },
+        {
+          "episode_title": "ep.8 スピードに誇りをかけて（ストーリー）8",
+          "episode_desc": "突如現れてはレースを乗っ取るムンティエとユエユエ。それでも出場者たちは突き進む。",
+          "label": "midoga_r_e_240221_10_8",
+          "h": false
+        },
+        {
+          "episode_title": "ep.9 スピードに誇りをかけて（ストーリー）9",
+          "episode_desc": "それぞれに出来ることを尽くす。なんとしても目的を達成するため……。",
+          "label": "midoga_r_e_240221_10_9",
+          "h": false
+        },
+        {
+          "episode_title": "ep.10 スピードに誇りをかけて（ストーリー）10",
+          "episode_desc": "最終決戦の行方。フェニルの狙いが意味するものは――",
+          "label": "midoga_r_e_240221_10_10",
+          "h": false
+        }
+      ],
+      "story_tab_type": 3
     }
   ]
 }

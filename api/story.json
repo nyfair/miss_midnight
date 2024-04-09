@@ -6847,6 +6847,80 @@
         }
       ],
       "story_tab_type": 3
+    },
+    {
+      "story_name": "魔法の釜と拗れた性癖（前編）",
+      "url": "https://res.midogar.saikyo.biz/img/bnr/event/bnr_20240321.png",
+      "episode_list": [
+        {
+          "episode_title": "ep.1 魔法の釜と拗れた性癖（前編）1",
+          "episode_desc": "レオレールと共にルドラムの調査を行っていた魔法の釜くん。しかし、ある異変がルドラムに起き――？",
+          "label": "midoga_r_e_240321_10_1",
+          "h": false
+        },
+        {
+          "episode_title": "ep.3 魔法の釜と拗れた性癖（前編）3",
+          "episode_desc": "いつものダンスパーティーではしゃぎ倒していた一行。呆れるアンジェロスだが、あるSOSを受けてイヤイヤながら対応をさせることに。",
+          "label": "midoga_r_e_240321_10_2",
+          "h": false
+        },
+        {
+          "episode_title": "ep.5 魔法の釜と拗れた性癖（前編）5",
+          "episode_desc": "ルドラムに送り込まれ、魔法の釜との邂逅を果たすも、そこにはさらにお助けキャラがやってくる。",
+          "label": "midoga_r_e_240321_10_3",
+          "h": false
+        },
+        {
+          "episode_title": "ep.7 魔法の釜と拗れた性癖（前編）7",
+          "episode_desc": "ナマエたちはルドラムに起きた変化を原因を掴めずにいた。さらにそこに見覚えがあるものの大きく姿を変えた魔物が待ち構えていた。",
+          "label": "midoga_r_e_240321_10_4",
+          "h": false
+        },
+        {
+          "episode_title": "ep.10 魔法の釜と拗れた性癖（前編）10",
+          "episode_desc": "謎の生命体を発見するため、スライムを追う一行。手がかりが尽きたかと思われたその時、その不思議生命体は再び姿を現した。",
+          "label": "midoga_r_e_240321_10_5",
+          "h": false
+        }
+      ],
+      "story_tab_type": 3
+    },
+    {
+      "story_name": "魔法の釜と拗れた性癖（後編）",
+      "url": "https://res.midogar.saikyo.biz/img/bnr/event/bnr_20240321.png",
+      "episode_list": [
+        {
+          "episode_title": "ep.1 魔法の釜と拗れた性癖（後編）1",
+          "episode_desc": "現れた魔物娘たちはナマエの知り合いであった。姿は変わっているが、うっすらとかつての面影を感じさせる。",
+          "label": "midoga_r_e_240321_10_6",
+          "h": false
+        },
+        {
+          "episode_title": "ep.3 魔法の釜と拗れた性癖（後編）3",
+          "episode_desc": "ゲーミングフラスコは正当な手続きを踏んで、ルドラムの所有権を得たと言い、ポルカはそれを肯定した。",
+          "label": "midoga_r_e_240321_10_7",
+          "h": false
+        },
+        {
+          "episode_title": "ep.5 魔法の釜と拗れた性癖（後編）5",
+          "episode_desc": "アロエは壮大なやり取りの末に、{{ name }}の敵に回ったと話すが実際には壮大とはほど遠く――。",
+          "label": "midoga_r_e_240321_10_8",
+          "h": false
+        },
+        {
+          "episode_title": "ep.7 魔法の釜と拗れた性癖（後編）7",
+          "episode_desc": "怒りの末に、変身を遂げるゲーミングフラスコ。しかしユーリたちは本気でルドラムを支配する意欲はなく、先に来ていた魔物娘たちとおしゃべりに興じ始める。",
+          "label": "midoga_r_e_240321_10_9",
+          "h": false
+        },
+        {
+          "episode_title": "ep.10 魔法の釜と拗れた性癖（後編）10",
+          "episode_desc": "ルドラムが引き起こした奇妙な騒動も、この戦いで幕引きとなるだろう――！",
+          "label": "midoga_r_e_240321_10_10",
+          "h": false
+        }
+      ],
+      "story_tab_type": 3
     }
   ]
 }

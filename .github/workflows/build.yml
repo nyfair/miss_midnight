@@ -7,6 +7,7 @@ jobs:
   build-windows:
     runs-on: windows-latest
     strategy:
+      fail-fast: false
       matrix:
         target:
           - x86_64-pc-windows-msvc
@@ -25,7 +26,8 @@ jobs:
         rustup target add --toolchain stable ${{ matrix.target }}
         cargo build --release --target=${{ matrix.target }}
         move target\${{ matrix.target }}\release\*.exe .
-        7z a ${{ matrix.target }}.7z *.exe config.json api/ app_data/index.html
+        del api\* /q
+        7z a ${{ matrix.target }}.7z *.exe api/ app_data/index.html
     - name: Upload
       uses: svenstaro/upload-release-action@v2
       with:
@@ -34,13 +36,15 @@ jobs:
         tag: latest
         overwrite: true
         file_glob: true
-  build-unix:
+  build-osx:
     runs-on: macos-latest
     strategy:
+      fail-fast: false
       matrix:
         target:
           - x86_64-apple-darwin
           - aarch64-apple-darwin
+          - aarch64-apple-ios
     steps:
     - uses: actions/checkout@v4
     - name: Compile
@@ -52,7 +56,7 @@ jobs:
         rustup target add --toolchain stable ${{ matrix.target }}
         cargo build --release --target=${{ matrix.target }}
         mv target/${{ matrix.target }}/release/mid* .
-        rm *.d
+        rm *.d api/*
         tar acf ${{ matrix.target }}.tar.xz mid* config.json api/ app_data/index.html
     - name: Upload
       uses: svenstaro/upload-release-action@v2
@@ -65,6 +69,7 @@ jobs:
   build-linux:
     runs-on: ubuntu-latest
     strategy:
+      fail-fast: false
       matrix:
         target:
           - i686-unknown-linux-gnu
@@ -72,6 +77,9 @@ jobs:
           - aarch64-unknown-linux-gnu
           - aarch64-unknown-linux-musl
           - riscv64gc-unknown-linux-gnu
+          - loongarch64-unknown-linux-gnu
+          - armv7-linux-androideabi
+          - aarch64-linux-android
     steps:
     - uses: actions/checkout@v4
     - name: Compile
@@ -81,10 +89,10 @@ jobs:
         rustup default stable
         rustup override set stable
         rustup target add --toolchain stable ${{ matrix.target }}
-        cargo install cross
+        cargo install cross --git https://github.com/cross-rs/cross
         cross build --release --target=${{ matrix.target }}
         mv target/${{ matrix.target }}/release/* .
-        rm *.d
+        rm *.d api/*
         tar acf ${{ matrix.target }}.tar.xz mid* config.json api/ app_data/index.html
     - name: Upload
       uses: svenstaro/upload-release-action@v2

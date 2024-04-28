@@ -1,5 +1,5 @@
 {
-  "host": "127.0.0.1:443",
+  "host": "127.0.0.1:50435",
   "workers": 1,
   "name": "あなた",
   "bg_url": "https://res.midogar.saikyo.biz/img/bg/a/bg_10_08_01_a.jpg",

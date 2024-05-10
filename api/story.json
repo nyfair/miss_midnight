@@ -1625,6 +1625,19 @@
       "story_tab_type": 2
     },
     {
+      "story_name": "第2部 10章 金色の理想郷の国　プロローグ",
+      "url": "https://res.midogar.saikyo.biz/img/story/22.png",
+      "episode_list": [
+        {
+          "episode_title": "金色の理想郷の国　プロローグ　1",
+          "episode_desc": "サーシャの身に起きた異変。それを皮切りに金原の国に新たな時代が訪れようとしていた。",
+          "label": "midoga_r_e_240425_10_0",
+          "h": false
+        }
+      ],
+      "story_tab_type": 2
+    },
+    {
       "story_name": "花びらの舞う幼き国",
       "url": "https://res.midogar.saikyo.biz/img/bnr/event/bnr_20200630_01_01.png",
       "episode_list": [
@@ -6917,6 +6930,80 @@
           "episode_title": "ep.10 魔法の釜と拗れた性癖（後編）10",
           "episode_desc": "ルドラムが引き起こした奇妙な騒動も、この戦いで幕引きとなるだろう――！",
           "label": "midoga_r_e_240321_10_10",
+          "h": false
+        }
+      ],
+      "story_tab_type": 3
+    },
+    {
+      "story_name": "新たな顔でご挨拶！\n（前編）",
+      "url": "https://res.midogar.saikyo.biz/img/bnr/event/bnr_230501.png",
+      "episode_list": [
+        {
+          "episode_title": "ep.1 新たな顔でご挨拶！（前編）1",
+          "episode_desc": "書物の島から学校への招待状が届き、参加することとなった{{ name }}。見送ったリルムたちには深刻な懸念が……",
+          "label": "midoga_r_e_240430_01_1",
+          "h": false
+        },
+        {
+          "episode_title": "ep.3 新たな顔でご挨拶！（前編）3",
+          "episode_desc": "受付を済ませた{{ name }}は校内探索に出る。そこで出会ったものとは。",
+          "label": "midoga_r_e_240430_01_2",
+          "h": false
+        },
+        {
+          "episode_title": "ep.5 新たな顔でご挨拶！（前編）5",
+          "episode_desc": "トルテを教室に案内した{{ name }}。そこにいたのは個性豊かな新入生たちだった。",
+          "label": "midoga_r_e_240430_01_3",
+          "h": false
+        },
+        {
+          "episode_title": "ep.7 新たな顔でご挨拶！（前編）7",
+          "episode_desc": "自己紹介が進んでいく中、トルテは不安そうな表情を浮かべるのだった。",
+          "label": "midoga_r_e_240430_01_4",
+          "h": false
+        },
+        {
+          "episode_title": "ep.10 新たな顔でご挨拶！（前編）10",
+          "episode_desc": "謎の触手を鎮めることに無事成功した{{ name }}たち。ミルラからのある提案、そして同時に浮き彫りになる桜の謎。",
+          "label": "midoga_r_e_240430_01_5",
+          "h": false
+        }
+      ],
+      "story_tab_type": 3
+    },
+    {
+      "story_name": "新たな顔でご挨拶！\n（後編）",
+      "url": "https://res.midogar.saikyo.biz/img/bnr/event/bnr_230501.png",
+      "episode_list": [
+        {
+          "episode_title": "ep.1 新たな顔でご挨拶！（後編）1",
+          "episode_desc": "桜について調べる{{ name }}たち。進展はあるのだろうか。",
+          "label": "midoga_r_e_240430_01_6",
+          "h": false
+        },
+        {
+          "episode_title": "ep.3 新たな顔でご挨拶！（後編）3",
+          "episode_desc": "ロゼを探す途中、見慣れたメンバーを見かけて追いかける。",
+          "label": "midoga_r_e_240430_01_7",
+          "h": false
+        },
+        {
+          "episode_title": "ep.5 新たな顔でご挨拶！（後編）5",
+          "episode_desc": "待ち受けるロゼの口から明かされる真相、桜に込められた役割とは……",
+          "label": "midoga_r_e_240430_01_8",
+          "h": false
+        },
+        {
+          "episode_title": "ep.7 新たな顔でご挨拶！（後編）7",
+          "episode_desc": "学校生活初日も大詰め。エナの想いは、動機は……？",
+          "label": "midoga_r_e_240430_01_9",
+          "h": false
+        },
+        {
+          "episode_title": "ep.10 新たな顔でご挨拶！（後編）10",
+          "episode_desc": "トルテの独白。{{ name }}の自分探しの答えは――",
+          "label": "midoga_r_e_240430_01_10",
           "h": false
         }
       ],

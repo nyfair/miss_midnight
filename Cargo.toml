@@ -12,5 +12,7 @@ serde_json = "1"
 upon = { version = "0", default-features = false, features = ["serde"] }
 
 [profile.release]
-strip = "symbols"
-lto = "fat"
+opt-level = "z"
+strip = true
+lto = true
+codegen-units = 1

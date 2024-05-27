@@ -1348,7 +1348,7 @@
           "episode_desc": "※ story 8 幼さを守る国　8 にて敗北した",
           "label": "chara_e100364_1",
           "close": 0,
-          "h": false
+          "h": true
         },
         {
           "episode_title": "幼さを守る国　9",
@@ -1508,7 +1508,7 @@
           "episode_desc": "※ story 10 魔と錬の国　10 にて敗北した",
           "label": "chara_e100423_1",
           "close": 0,
-          "h": false
+          "h": true
         }
       ],
       "story_tab_type": 2
@@ -7004,6 +7004,31 @@
           "episode_title": "ep.10 新たな顔でご挨拶！（後編）10",
           "episode_desc": "トルテの独白。{{ name }}の自分探しの答えは――",
           "label": "midoga_r_e_240430_01_10",
+          "h": false
+        }
+      ],
+      "story_tab_type": 3
+    },
+    {
+      "story_name": "堕天使との優雅な一日\n～アフターストーリー～",
+      "url": "https://res.midogar.saikyo.biz/img/bnr/event/bnr_20240523.png",
+      "episode_list": [
+        {
+          "episode_title": "ep.1 堕天使との優雅な一日～アフターストーリー～1",
+          "episode_desc": "『水面の国』に買い出しに来た{{ name }}とニカ、リルムの書いた注文リストが難解なようで……",
+          "label": "midoga_r_e_240523_1_1",
+          "h": false
+        },
+        {
+          "episode_title": "ep.6 堕天使との優雅な一日～アフターストーリー～6",
+          "episode_desc": "エペハザとティミスの協力もあり、買い出しはすぐに終わる。時間を持て余した一行にエペハザがとある提案をする。",
+          "label": "midoga_r_e_240523_2_1",
+          "h": false
+        },
+        {
+          "episode_title": "ep.10 堕天使との優雅な一日～アフターストーリー～10",
+          "episode_desc": "ティミスとニカの手料理を美味しくいただいて、お別れの時間はすぐそこに。堕天使の優雅な一日は明日も続く。",
+          "label": "midoga_r_e_240523_3_1",
           "h": false
         }
       ],

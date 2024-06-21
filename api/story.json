@@ -7033,6 +7033,148 @@
         }
       ],
       "story_tab_type": 3
+    },
+    {
+      "story_name": "特攻ガール　チームブラボー\n（前編）",
+      "url": "https://res.midogar.saikyo.biz/img/bnr/event/bnr_20240601.png",
+      "episode_list": [
+        {
+          "episode_title": "ep.1 特攻ガール　チームブラボー（前編）1",
+          "episode_desc": "軍隊の体験入隊イベントがあるという情報を聞きつけた参加者たちが蒸気の国に集う。今回の問題児チームは……",
+          "label": "midoga_r_e_240601_01_1",
+          "h": false
+        },
+        {
+          "episode_title": "ep.4 特攻ガール　チームブラボー（前編）4",
+          "episode_desc": "個性豊かなメンバーに苦労するハイデア。そこに新たなトラブルが？",
+          "label": "midoga_r_e_240601_02_1",
+          "h": false
+        },
+        {
+          "episode_title": "ep.7 特攻ガール　チームブラボー（前編）7",
+          "episode_desc": "空より現れた天使。その目的とは……",
+          "label": "midoga_r_e_240601_03_1",
+          "h": false
+        },
+        {
+          "episode_title": "ep.10 特攻ガール　チームブラボー（前編）10",
+          "episode_desc": "Mission:チーム名を決めろ",
+          "label": "midoga_r_e_240601_04_1",
+          "h": false
+        }
+      ],
+      "story_tab_type": 3
+    },
+    {
+      "story_name": "特攻ガール　チームブラボー\n（後編）",
+      "url": "https://res.midogar.saikyo.biz/img/bnr/event/bnr_20240601.png",
+      "episode_list": [
+        {
+          "episode_title": "ep.1 特攻ガール　チームブラボー（後編）1",
+          "episode_desc": "ついに大規模な潜入ミッションが始まる。目的地に向かっていざ進め――！",
+          "label": "midoga_r_e_240601_05_1",
+          "h": false
+        },
+        {
+          "episode_title": "ep.3 特攻ガール　チームブラボー（後編）3",
+          "episode_desc": "一時休息、明日の決行に備えよ。",
+          "label": "midoga_r_e_240601_06_1",
+          "h": false
+        },
+        {
+          "episode_title": "ep.5 特攻ガール　チームブラボー（後編）5",
+          "episode_desc": "敵拠点にたどりついたチームブラボー。誰にも知られることなく、密かに作戦は開始される。",
+          "label": "midoga_r_e_240601_07_1",
+          "h": false
+        },
+        {
+          "episode_title": "ep.7 特攻ガール　チームブラボー（後編）7",
+          "episode_desc": "仕切り直しを図る一行。しかし、裏では思いもよらぬ事態が起きているようで？",
+          "label": "midoga_r_e_240601_08_1",
+          "h": false
+        },
+        {
+          "episode_title": "ep.9 特攻ガール　チームブラボー（後編）9",
+          "episode_desc": "捕まってしまった参加者たち。そこに現れるのは――",
+          "label": "midoga_r_e_240601_09_1",
+          "h": false
+        },
+        {
+          "episode_title": "ep.10 特攻ガール　チームブラボー（後編）10",
+          "episode_desc": "我々の強みは団結力だ。きっとこの経験は生涯の宝となる。",
+          "label": "midoga_r_e_240601_10_1",
+          "h": false
+        }
+      ],
+      "story_tab_type": 3
+    },
+    {
+      "story_name": "宙から落ちてきた少女",
+      "url": "https://res.midogar.saikyo.biz/img/bnr/event/bnr_20240613.png",
+      "episode_list": [
+        {
+          "episode_title": "ep.1 宙から落ちてきた少女1",
+          "episode_desc": "いつもの日常を過ごしていたリルムたち。しかし遠い別銀河ではとある問題が発生しており――",
+          "label": "midoga_r_e_240613_01_1",
+          "h": false
+        },
+        {
+          "episode_title": "ep.3 宙から落ちてきた少女3",
+          "episode_desc": "日常は突然の来訪者によって崩された。しかしこの手のトラブルには慣れっこであるのが一行の強みでもある。",
+          "label": "midoga_r_e_240613_02_1",
+          "h": false
+        },
+        {
+          "episode_title": "ep.5 宙から落ちてきた少女5",
+          "episode_desc": "サキュバス化したルミナたちが元いた世界の話を聞くも、壮大な宇宙の話に頭がパンクしそうになる{{ name }}たちであった――",
+          "label": "midoga_r_e_240613_03_1",
+          "h": false
+        },
+        {
+          "episode_title": "ep.7 宙から落ちてきた少女7",
+          "episode_desc": "熾天使アンジェロスの講じた策は、月の民を介してのワープであったが、そう一筋縄に話は進まず――",
+          "label": "midoga_r_e_240613_04_1",
+          "h": false
+        }
+      ],
+      "story_tab_type": 3
+    },
+    {
+      "story_name": "白空に唄う花嫁たち\n（前編）",
+      "url": "https://res.midogar.saikyo.biz/img/bnr/event/bnr_20240621.png",
+      "episode_list": [
+        {
+          "episode_title": "ep.1 白空に唄う花嫁たち（前編）1",
+          "episode_desc": "トロンたちはハナエルの申し出でで、宿り木の国へと向かうことになる。",
+          "label": "midoga_r_e_240621_01_1",
+          "h": false
+        },
+        {
+          "episode_title": "ep.3 白空に唄う花嫁たち（前編）3",
+          "episode_desc": "特に目立った特徴のない、緑豊かなその国で『ユノーの花束』という団体は50年に1度の祝祭を催すのだと言う。",
+          "label": "midoga_r_e_240621_02_1",
+          "h": false
+        },
+        {
+          "episode_title": "ep.5 白空に唄う花嫁たち（前編）5",
+          "episode_desc": "ユノーの花束の幹部であるノエミというマイコニドから、他の参加者の『花嫁』を紹介されるトロンたち。",
+          "label": "midoga_r_e_240621_03_1",
+          "h": false
+        },
+        {
+          "episode_title": "ep.7 白空に唄う花嫁たち（前編）7",
+          "episode_desc": "この祝祭に違和感を感じたとある堕天使が、セリトの元へと姿を現す。",
+          "label": "midoga_r_e_240621_04_1",
+          "h": false
+        },
+        {
+          "episode_title": "ep.10 白空に唄う花嫁たち（前編）10",
+          "episode_desc": "幹部候補生として特別待遇となったトロン。そこでこの団体の真の姿を目にすることになる――！",
+          "label": "midoga_r_e_240621_05_1",
+          "h": false
+        }
+      ],
+      "story_tab_type": 3
     }
   ]
 }

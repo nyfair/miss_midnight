@@ -1,4 +1,5 @@
 *.exe
+Build/
 /target/
 /app_data/
 !/app_data/index.html

@@ -7175,6 +7175,43 @@
         }
       ],
       "story_tab_type": 3
+    },
+    {
+      "story_name": "白空に唄う花嫁たち\n（後編）",
+      "url": "https://res.midogar.saikyo.biz/img/bnr/event/bnr_20240621.png",
+      "episode_list": [
+        {
+          "episode_title": "ep.1 白空に唄う花嫁たち（後編）1",
+          "episode_desc": "セリトの求めに応じてやってきたのは守護天使ヴィア、能天使ウリエルという位の高い天使2人であった。",
+          "label": "midoga_r_e_240621_06_1",
+          "h": false
+        },
+        {
+          "episode_title": "ep.3 白空に唄う花嫁たち（後編）3",
+          "episode_desc": "早速ヴィアたちは他の花嫁たちやユノーの花束の信者と接触する。しかし天使と堕天使はやはりソリが合わないようで……。",
+          "label": "midoga_r_e_240621_07_1",
+          "h": false
+        },
+        {
+          "episode_title": "ep.5 白空に唄う花嫁たち（後編）5",
+          "episode_desc": "ウリエルは騒動に隠れて単独行動をしていたが、ある怪しい小屋を見つけ潜入する。そこで目にしたのはスコーピオンの少女が信者たちに追い詰められる様子であった。",
+          "label": "midoga_r_e_240621_08_1",
+          "h": false
+        },
+        {
+          "episode_title": "ep.7 白空に唄う花嫁たち（後編）7",
+          "episode_desc": "祝宴は開かれ、花嫁たちが一堂に会する。しかし目的を同じくしていたはずの花嫁たちの仲間割れが始まってしまった。",
+          "label": "midoga_r_e_240621_09_1",
+          "h": false
+        },
+        {
+          "episode_title": "ep.10 白空に唄う花嫁たち（後編）10",
+          "episode_desc": "あなたは儀式の相手を選ばなければならない。今からこの祝祭はフィナーレを迎えるのだ。",
+          "label": "midoga_r_e_240621_10_1",
+          "h": false
+        }
+      ],
+      "story_tab_type": 3
     }
   ]
 }

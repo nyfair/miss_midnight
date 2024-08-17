@@ -1625,13 +1625,87 @@
       "story_tab_type": 2
     },
     {
-      "story_name": "第2部 10章 金色の理想郷の国　プロローグ",
+      "story_name": "第2部 幕間 金色の架け橋",
       "url": "https://res.midogar.saikyo.biz/img/story/22.png",
       "episode_list": [
         {
-          "episode_title": "金色の理想郷の国　プロローグ　1",
+          "episode_title": "2部　幕間「金色の架け橋」　1",
           "episode_desc": "サーシャの身に起きた異変。それを皮切りに金原の国に新たな時代が訪れようとしていた。",
           "label": "midoga_r_e_240425_10_0",
+          "h": false
+        }
+      ],
+      "story_tab_type": 2
+    },
+    {
+      "story_name": "第2部 10章 金色の理想郷の国",
+      "url": "https://res.midogar.saikyo.biz/img/story/23.png",
+      "episode_list": [
+        {
+          "episode_title": "金色の理想郷の国　1",
+          "episode_desc": "サーシャは新たな役目を得て、自身の役割と運命を確信する。しかし白狐の里の態度は引き続き強固なものであった。",
+          "label": "midoga_r_e_240725_10_1",
+          "h": false
+        },
+        {
+          "episode_title": "金色の理想郷の国　2",
+          "episode_desc": "唐突に現れたのは{{ name }}たちの見知った妖狐であった。さらには天使たちも引き連れており――",
+          "label": "midoga_r_e_240725_10_2",
+          "h": false
+        },
+        {
+          "episode_title": "金色の理想郷の国　3",
+          "episode_desc": "この戦の沙汰に古き月の国が関与するという唐突な提案に、すぐに返答は返ってこない。そして、その時地獄では眠りにつく者がそれにあわせ胎動していた。",
+          "label": "midoga_r_e_240725_10_3",
+          "h": false
+        },
+        {
+          "episode_title": "金色の理想郷の国　4",
+          "episode_desc": "大手合わせについて双方の同意が進むが、そこにさらなる見届け役が地獄から現れた。",
+          "label": "midoga_r_e_240725_10_4",
+          "h": false
+        },
+        {
+          "episode_title": "金色の理想郷の国　5",
+          "episode_desc": "不死鳥と東雲、天使たちによって大手合わせの取り決めが進められる。リルムたちは飛行艇の自由を取り返すものの、大量の客人に見舞われていた。",
+          "label": "midoga_r_e_240725_10_5",
+          "h": false
+        },
+        {
+          "episode_title": "金色の理想郷の国　6",
+          "episode_desc": "大手合わせの日。斬残夜と九條という2人の代表者による、戦いの幕が開けられようとしていた。",
+          "label": "midoga_r_e_240725_10_6",
+          "h": false
+        },
+        {
+          "episode_title": "金色の理想郷の国　7",
+          "episode_desc": "斬残夜の持つ殺意の理由や、白兎たちの思惑等、穏便に済みそうにない話題が積みあがっていくが、それでも大手合わせは予定通り始まるだけであった。",
+          "label": "midoga_r_e_240725_10_7",
+          "h": false
+        },
+        {
+          "episode_title": "金色の理想郷の国　8",
+          "episode_desc": "泥臭い戦いの末、勝敗が決する。",
+          "label": "midoga_r_e_240725_10_8",
+          "h": false
+        },
+        {
+          "episode_title": "金色の理想郷の国　9",
+          "episode_desc": "敗北Hシーンあり♥　　勝者の九條から、白兎の里へ提案が行われる。それは思い描いたような結末であった。",
+          "label": "midoga_r_e_240725_10_9",
+          "h": false
+        },
+        {
+          "episode_title": "金色の理想郷の国　9 敗北",
+          "episode_desc": "※ story 9 金色の理想郷の国　9 にて敗北した",
+          "label": "midoga_r_e_240425_10_LH",
+          "close": 0,
+          "h": true
+        },
+        {
+          "episode_title": "金色の理想郷の国　10",
+          "episode_desc": "戦いも落ち着き、リルムたちは九條から地獄についての情報を渡される。それは新たな旅路への手掛かりであった。",
+          "label": "midoga_r_e_240725_10_10",
           "h": false
         }
       ],
@@ -7208,6 +7282,117 @@
           "episode_title": "ep.10 白空に唄う花嫁たち（後編）10",
           "episode_desc": "あなたは儀式の相手を選ばなければならない。今からこの祝祭はフィナーレを迎えるのだ。",
           "label": "midoga_r_e_240621_10_1",
+          "h": false
+        }
+      ],
+      "story_tab_type": 3
+    },
+    {
+      "story_name": "波音に綴る鎮魂曲\n（前編）",
+      "url": "https://res.midogar.saikyo.biz/img/bnr/event/bnr_20240801.png",
+      "episode_list": [
+        {
+          "episode_title": "ep.1 波音に綴る鎮魂曲（前編）1",
+          "episode_desc": "今日もなんでもない一日の予定だった一行に、思わぬ来訪者が……？",
+          "label": "midoga_r_e_240801_01_1",
+          "h": false
+        },
+        {
+          "episode_title": "ep.3 波音に綴る鎮魂曲（前編）3",
+          "episode_desc": "リルロットによって見知らぬ地に飛ばされた{{ name }}とコレット。そこで砂浜に埋まる何かを発見する。",
+          "label": "midoga_r_e_240801_02_1",
+          "h": false
+        },
+        {
+          "episode_title": "ep.5 波音に綴る鎮魂曲（前編）5",
+          "episode_desc": "通りかかったゾンと協力して救出開始。そこにいたのはなんと……",
+          "label": "midoga_r_e_240801_03_1",
+          "h": false
+        },
+        {
+          "episode_title": "ep.7 波音に綴る鎮魂曲（前編）7",
+          "episode_desc": "海に溺れ意識を手放す{{ name }}、一体どうなる？",
+          "label": "midoga_r_e_240801_04_1",
+          "h": false
+        },
+        {
+          "episode_title": "ep.10 波音に綴る鎮魂曲（前編）10",
+          "episode_desc": "『火送り』に参加する一行。その由来、意味はいったいどこにあるのか。",
+          "label": "midoga_r_e_240801_05_1",
+          "h": false
+        }
+      ],
+      "story_tab_type": 3
+    },
+    {
+      "story_name": "波音に綴る鎮魂曲\n（後編）",
+      "url": "https://res.midogar.saikyo.biz/img/bnr/event/bnr_20240801.png",
+      "episode_list": [
+        {
+          "episode_title": "ep.1 波音に綴る鎮魂曲（後編）1",
+          "episode_desc": "ビーチで休暇を取る美女達、ことの経緯は――",
+          "label": "midoga_r_e_240808_06_1",
+          "h": false
+        },
+        {
+          "episode_title": "ep.3 波音に綴る鎮魂曲（後編）3",
+          "episode_desc": "バカンスを持て余すエペハザとヘルメス。声を掛けてきた謎の少女の目的は。",
+          "label": "midoga_r_e_240808_07_1",
+          "h": false
+        },
+        {
+          "episode_title": "ep.5 波音に綴る鎮魂曲（後編）5",
+          "episode_desc": "日が暮れ宝探しから帰還する一行、そこでヘルメスがひとつ昔話を。",
+          "label": "midoga_r_e_240808_08_1",
+          "h": false
+        },
+        {
+          "episode_title": "ep.7 波音に綴る鎮魂曲（後編）7",
+          "episode_desc": "残されたものたちは何を想うのか、そのことに意味はあるのだろうか。",
+          "label": "midoga_r_e_240808_09_1",
+          "h": false
+        },
+        {
+          "episode_title": "ep.10 波音に綴る鎮魂曲（後編）10",
+          "episode_desc": "さぁ、幕開けだ。▓▓に満ちた世界はすぐそこに……",
+          "label": "midoga_r_e_240808_10_1",
+          "h": false
+        }
+      ],
+      "story_tab_type": 3
+    },
+    {
+      "story_name": "波音に綴る鎮魂曲\n（完結編）",
+      "url": "https://res.midogar.saikyo.biz/img/bnr/event/bnr_20240815.png",
+      "episode_list": [
+        {
+          "episode_title": "ep.1 波音に綴る鎮魂曲（完結編）1",
+          "episode_desc": "霧から姿を現した少女。その目的は……？",
+          "label": "midoga_r_e_240815_11_1",
+          "h": false
+        },
+        {
+          "episode_title": "ep.3 波音に綴る鎮魂曲（完結編）3",
+          "episode_desc": "ニカに見送られ、自ら死地へと赴くアンジェロスだった。",
+          "label": "midoga_r_e_240815_12_1",
+          "h": false
+        },
+        {
+          "episode_title": "ep.5 波音に綴る鎮魂曲（完結編）5",
+          "episode_desc": "露呈するハツの異常性は次第に増していく。アンジェロスさえも引きずり下ろすその策は",
+          "label": "midoga_r_e_240815_13_1",
+          "h": false
+        },
+        {
+          "episode_title": "ep.7 波音に綴る鎮魂曲（完結編）7",
+          "episode_desc": "最終決戦！　決着は火を見るより明らか。",
+          "label": "midoga_r_e_240815_14_1",
+          "h": false
+        },
+        {
+          "episode_title": "ep.10 波音に綴る鎮魂曲（完結編）10",
+          "episode_desc": "現世に取り残された者たちは故人に対してどう向き合うのか。意味は果たしてそこにあったのだろうか。",
+          "label": "midoga_r_e_240815_15_1",
           "h": false
         }
       ],

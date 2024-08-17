@@ -24,7 +24,8 @@ jobs:
         cargo build --release --target=${{ matrix.target }}
         move target\${{ matrix.target }}\release\*.exe .
         del api\*
-        7z a ${{ matrix.target }}.7z *.exe api/ app_data/index.html
+        del app_data\*
+        7z a ${{ matrix.target }}.7z *.exe api/ app_data/
     - name: Upload
       uses: svenstaro/upload-release-action@v2
       with:
@@ -50,8 +51,8 @@ jobs:
         rustup target add --toolchain stable ${{ matrix.target }}
         cargo build --release --target=${{ matrix.target }}
         mv target/${{ matrix.target }}/release/mid* .
-        rm *.d api/*
-        tar acf ${{ matrix.target }}.tar.xz mid* config.json api/ app_data/index.html
+        rm *.d api/* app_data/*
+        tar acf ${{ matrix.target }}.tar.xz mid* config.json api/ app_data/
     - name: Upload
       uses: svenstaro/upload-release-action@v2
       with:
@@ -73,6 +74,7 @@ jobs:
           - loongarch64-unknown-linux-gnu
           - armv7-linux-androideabi
           - aarch64-linux-android
+          - riscv64gc-unknown-linux-gnu
     steps:
     - uses: actions/checkout@v4
     - name: Compile
@@ -82,36 +84,8 @@ jobs:
         cargo install cross --git https://github.com/cross-rs/cross
         cross build --release --target=${{ matrix.target }}
         mv target/${{ matrix.target }}/release/* .
-        rm *.d api/*
-        tar acf ${{ matrix.target }}.tar.xz mid* config.json api/ app_data/index.html
-    - name: Upload
-      uses: svenstaro/upload-release-action@v2
-      with:
-        repo_token: ${{ secrets.GITHUB_TOKEN }}
-        file: ${{ matrix.target }}.tar.xz
-        tag: latest
-        overwrite: true
-        file_glob: true
-  build-workaround:
-    runs-on: ubuntu-latest
-    strategy:
-      fail-fast: false
-      matrix:
-        target:
-          - riscv64gc-unknown-linux-gnu
-    steps:
-    - uses: actions/checkout@v4
-    - name: Compile
-      run: |
-        rustup set profile minimal
-        rustup toolchain install 1.72.1
-        rustup default 1.72.1
-        rustup target add --toolchain stable ${{ matrix.target }}
-        cargo install cross
-        cross build --release --target=${{ matrix.target }}
-        mv target/${{ matrix.target }}/release/* .
-        rm *.d api/*
-        tar acf ${{ matrix.target }}.tar.xz mid* config.json api/ app_data/index.html
+        rm *.d api/* app_data/*
+        tar acf ${{ matrix.target }}.tar.xz mid* config.json api/ app_data/
     - name: Upload
       uses: svenstaro/upload-release-action@v2
       with:

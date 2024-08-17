@@ -1,4 +1,5 @@
 use actix_web::{post, web, App, HttpResponse, HttpServer, Responder};
+use once_cell::sync::Lazy;
 use serde_json::{json, Map, Value};
 
 macro_rules! h200 {
@@ -29,12 +30,11 @@ macro_rules! api {
     };
 }
 
-lazy_static::lazy_static! {
-    static ref CONFIG: Value = {
-        std::fs::read_to_string("config.json").map_or(json!({}), |v|
-            serde_json::from_str(&v).map_or(json!({}), |v| v))
-    };
-}
+static CONFIG: Lazy<Value> = Lazy::new(|| {
+    std::fs::read_to_string("config.json").map_or(json!({}), |v| {
+        serde_json::from_str(&v).map_or(json!({}), |v| v)
+    })
+});
 
 #[post("/api/api/login")]
 async fn alogin() -> impl Responder {

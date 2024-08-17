@@ -6,7 +6,7 @@ edition = "2021"
 [dependencies]
 actix-web = { version="4", default-features = false, features = ["macros"] }
 actix-files = "0"
-lazy_static = "1"
+once_cell = "1"
 serde = { version = "1", features = ["derive"] }
 serde_json = "1"
 upon = { version = "0", default-features = false, features = ["serde"] }

@@ -7397,6 +7397,56 @@
         }
       ],
       "story_tab_type": 3
+    },
+    {
+      "story_name": "Call yell to me\n- 前編 -",
+      "url": "https://res.midogar.saikyo.biz/img/bnr/event/bnr_20240901.png",
+      "episode_list": [
+        {
+          "episode_title": "ep.1 Call yell to me（前編）1",
+          "episode_desc": "アイドルにハマったアロエの一声で夜魔の国を訪れた一行。観光中のあなたはある少女に呼び止められる……",
+          "label": "midoga_r_e_240901_01_1",
+          "h": false
+        },
+        {
+          "episode_title": "ep.3 Call yell to me（前編）3",
+          "episode_desc": "流れでマネージャーになった主人公。招かれた事務所で彼女達のパフォーマンスを目撃するのだがその実力とは……",
+          "label": "midoga_r_e_240901_02_1",
+          "h": false
+        },
+        {
+          "episode_title": "ep.5 Call yell to me（前編）5",
+          "episode_desc": "一向に鳴かず飛ばずの3人。主人公は基本に立ち返り彼女たちがなぜアイドルを始めたのかを聞くことに……",
+          "label": "midoga_r_e_240901_03_1",
+          "h": false
+        }
+      ],
+      "story_tab_type": 3
+    },
+    {
+      "story_name": "Call yell to me\n- 中編 -",
+      "url": "https://res.midogar.saikyo.biz/img/bnr/event/bnr_20240901.png",
+      "episode_list": [
+        {
+          "episode_title": "ep.1 Call yell to me（中編）1",
+          "episode_desc": "トライライトの次の仕事は水上運動会。どうやらそこには見知った顔も居るようで……",
+          "label": "midoga_r_e_240905_04_1",
+          "h": false
+        },
+        {
+          "episode_title": "ep.3 Call yell to me（中編）3",
+          "episode_desc": "波乱の水上運動会もいよいよ佳境に。果たして優勝は誰の手に",
+          "label": "midoga_r_e_240905_05_1",
+          "h": false
+        },
+        {
+          "episode_title": "ep.5 Call yell to me（中編）5",
+          "episode_desc": "ムエルの活躍により知名度を上げたトライライト。だがその事になんとも言えぬもどかしさを抱えるツカサ。そんな彼女の眼の前に現れた人物とは……？",
+          "label": "midoga_r_e_240905_06_1",
+          "h": false
+        }
+      ],
+      "story_tab_type": 3
     }
   ]
 }

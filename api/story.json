@@ -1712,6 +1712,80 @@
       "story_tab_type": 2
     },
     {
+      "story_name": "第2部 11章 華咲く国",
+      "url": "https://res.midogar.saikyo.biz/img/story/24.png",
+      "episode_list": [
+        {
+          "episode_title": "華咲く国　1",
+          "episode_desc": "クラクの導きによって華咲く国にたどり着いた一向。しかし異様な静けさに不安を感じていた。",
+          "label": "midoga_r_e_240919_11_1",
+          "h": false
+        },
+        {
+          "episode_title": "華咲く国　2",
+          "episode_desc": "集落を見つけ、少数だが住民と出会う一行。しかし誰も彼もが口を閉ざしている――",
+          "label": "midoga_r_e_240919_11_2",
+          "h": false
+        },
+        {
+          "episode_title": "華咲く国　3",
+          "episode_desc": "トロンとクラクは別働班として、街らしき場所へとたどり着く。しかしそこでも住民が暮らしている日常は見受けられなかった。",
+          "label": "midoga_r_e_240919_11_3",
+          "h": false
+        },
+        {
+          "episode_title": "華咲く国　4",
+          "episode_desc": "イーニーは焦りを感じている。注意すべきだと情報を与えられていた一行が、この時になって急に国を訪れてきたことに。",
+          "label": "midoga_r_e_240919_11_4",
+          "h": false
+        },
+        {
+          "episode_title": "華咲く国　5",
+          "episode_desc": "導かれるように華咲く国へと魔物が集まってくる。その一人が邪狐であるジュンシィだった。",
+          "label": "midoga_r_e_240919_11_5",
+          "h": false
+        },
+        {
+          "episode_title": "華咲く国　6",
+          "episode_desc": "イーニーが抜け出して会合する相手は――月の民であった。",
+          "label": "midoga_r_e_240919_11_6",
+          "h": false
+        },
+        {
+          "episode_title": "華咲く国　7",
+          "episode_desc": "ユエユエたちの意志にこれ以上背く状況は許されないイーニー。リルムたちと極力揉めずに外へと追いやりたがるが、彼女たちは残る意思を変えなかった。",
+          "label": "midoga_r_e_240919_11_7",
+          "h": false
+        },
+        {
+          "episode_title": "華咲く国　8",
+          "episode_desc": "敗北Hシーンあり♥　　守護天使アニエスはあなたたちに試練を与える。彼女の状況を打破できる力があることを示そう。",
+          "label": "midoga_r_e_240919_11_8",
+          "h": false
+        },
+        {
+          "episode_title": "華咲く国　8 敗北",
+          "episode_desc": "※ story 8 華咲く国　8 にて敗北した",
+          "label": "midoga_r_e_240919_11_LH",
+          "close": 0,
+          "h": true
+        },
+        {
+          "episode_title": "華咲く国　9",
+          "episode_desc": "戦いは長引いていく。しかしそれは、力を合わせる地上の魔物にとって――望むべくして得た展開であった。",
+          "label": "midoga_r_e_240919_11_9",
+          "h": false
+        },
+        {
+          "episode_title": "華咲く国　10",
+          "episode_desc": "華咲く国は完全ではないが平穏を取り戻しつつあった。守護天使アニエスはその光景を見て――を想う。",
+          "label": "midoga_r_e_240919_11_10",
+          "h": false
+        }
+      ],
+      "story_tab_type": 2
+    },
+    {
       "story_name": "花びらの舞う幼き国",
       "url": "https://res.midogar.saikyo.biz/img/bnr/event/bnr_20200630_01_01.png",
       "episode_list": [
@@ -7443,6 +7517,111 @@
           "episode_title": "ep.5 Call yell to me（中編）5",
           "episode_desc": "ムエルの活躍により知名度を上げたトライライト。だがその事になんとも言えぬもどかしさを抱えるツカサ。そんな彼女の眼の前に現れた人物とは……？",
           "label": "midoga_r_e_240905_06_1",
+          "h": false
+        }
+      ],
+      "story_tab_type": 3
+    },
+    {
+      "story_name": "Call yell to me\n- 後編 -",
+      "url": "https://res.midogar.saikyo.biz/img/bnr/event/bnr_20240901.png",
+      "episode_list": [
+        {
+          "episode_title": "ep.1 Call yell to me（後編）1",
+          "episode_desc": "ソジョとの会話で何かをつかんだ様子のツカサ。しかしあと一歩が足らない様子のツカサにアロエがした提案とは……",
+          "label": "midoga_r_e_240912_07_1",
+          "h": false
+        },
+        {
+          "episode_title": "ep.3 Call yell to me（後編）3",
+          "episode_desc": "ツカサが復活を果たし、ただ1人何も掴む事が出来ず苦しむイオリ。その気持ちに蓋をするも、ある日我慢は限界を迎えてしまう……",
+          "label": "midoga_r_e_240912_08_1",
+          "h": false
+        },
+        {
+          "episode_title": "ep.5 Call yell to me（後編）5",
+          "episode_desc": "メンバーの元に帰ってきたイオリはそこで自分の想いと2人にぶつける。ツカサとムエルの2人はそれにどのように応えるのか……",
+          "label": "midoga_r_e_240912_09_1",
+          "h": false
+        },
+        {
+          "episode_title": "ep.7 Call yell to me（後編）7",
+          "episode_desc": "遂に迎えたドームライブ。しかしまばらな人入りに不安を見せるトライライト。そこにある魔物が訪れる……",
+          "label": "midoga_r_e_240912_10_1",
+          "h": false
+        }
+      ],
+      "story_tab_type": 3
+    },
+    {
+      "story_name": "JOKERは誰の手に！？\n～前編～",
+      "url": "https://res.midogar.saikyo.biz/img/bnr/event/bnr_20240926.png",
+      "episode_list": [
+        {
+          "episode_title": "ep.1 JOKERは誰の手に！？～前編～1",
+          "episode_desc": "休暇を取ったフィオナ。しかし、その有効的な使い方に困っており……",
+          "label": "midoga_r_e_240926_01_1",
+          "h": false
+        },
+        {
+          "episode_title": "ep.3 JOKERは誰の手に！？～前編～3",
+          "episode_desc": "夜魔の国へ赴いたナマエとフィオナ、そこは予想だにしない危険が。一方で――",
+          "label": "midoga_r_e_240926_02_1",
+          "h": false
+        },
+        {
+          "episode_title": "ep.5 JOKERは誰の手に！？～前編～5",
+          "episode_desc": "気づけばカジノに！？　事の経緯は……",
+          "label": "midoga_r_e_240926_03_1",
+          "h": false
+        },
+        {
+          "episode_title": "ep.7 JOKERは誰の手に！？～前編～7",
+          "episode_desc": "クレーゼVSエノテラのトランプ対決、ディーラーも只者ではないようで？",
+          "label": "midoga_r_e_240926_04_1",
+          "h": false
+        },
+        {
+          "episode_title": "ep.10 JOKERは誰の手に！？～前編～10",
+          "episode_desc": "今、前例のない怪盗からの挑戦状、それぞれの思惑と巨大カジノを巡る宝探しが始まる。",
+          "label": "midoga_r_e_240926_05_1",
+          "h": false
+        }
+      ],
+      "story_tab_type": 3
+    },
+    {
+      "story_name": "JOKERは誰の手に！？\n～後編～",
+      "url": "https://res.midogar.saikyo.biz/img/bnr/event/bnr_20240926.png",
+      "episode_list": [
+        {
+          "episode_title": "ep.1 JOKERは誰の手に！？～後編～1",
+          "episode_desc": "騒動の渦中であるファントムの目的とは、その真意は？",
+          "label": "midoga_r_e_241010_06_1",
+          "h": false
+        },
+        {
+          "episode_title": "ep.3 JOKERは誰の手に！？～後編～3",
+          "episode_desc": "カジノの舞台裏を手分けして探索、なんかこういうのわくわくするよね！",
+          "label": "midoga_r_e_241010_07_1",
+          "h": false
+        },
+        {
+          "episode_title": "ep.5 JOKERは誰の手に！？～後編～5",
+          "episode_desc": "真実は容赦なく襲い掛かる。",
+          "label": "midoga_r_e_241010_08_1",
+          "h": false
+        },
+        {
+          "episode_title": "ep.7 JOKERは誰の手に！？～後編～7",
+          "episode_desc": "突如現れた少女。この状況を好転させることはできるのだろうか",
+          "label": "midoga_r_e_241010_09_1",
+          "h": false
+        },
+        {
+          "episode_title": "ep.10 JOKERは誰の手に！？～後編～10",
+          "episode_desc": "ファントムとウィールによる答え合わせ。一方スーリアには心配事があるようで……",
+          "label": "midoga_r_e_241010_10_1",
           "h": false
         }
       ],

@@ -7626,6 +7626,80 @@
         }
       ],
       "story_tab_type": 3
+    },
+    {
+      "story_name": "悲劇のプリンセスではいられない\n～前編～",
+      "url": "https://res.midogar.saikyo.biz/img/bnr/event/bnr_20241023.png",
+      "episode_list": [
+        {
+          "episode_title": "ep.1 悲劇のプリンセスではいられない～前編～1",
+          "episode_desc": "スーリアとメリアと共に一度拠点に戻ってきた{{ name }}。コレットに転移をお願いするが、一方リルムは風邪をひいて寝込んでしまっていた。",
+          "label": "midoga_r_e_241023_01_1",
+          "h": false
+        },
+        {
+          "episode_title": "ep.3 悲劇のプリンセスではいられない～前編～3",
+          "episode_desc": "幼き国に転移してきた{{ name }}たち。しかしいつもの幼き国と違い、なにやら慌ただしく国民は働いていた。",
+          "label": "midoga_r_e_241023_02_1",
+          "h": false
+        },
+        {
+          "episode_title": "ep.5 悲劇のプリンセスではいられない～前編～5",
+          "episode_desc": "言い争っていたのはサキュバスのユーリであった。ユーリはあなたを見るや否や態度をすっかり変えてしまう。",
+          "label": "midoga_r_e_241023_03_1",
+          "h": false
+        },
+        {
+          "episode_title": "ep.7 悲劇のプリンセスではいられない～前編～7",
+          "episode_desc": "ルタと出会うことが出来た一行。しかしティースプーンの効果は判明せずじまいであった。",
+          "label": "midoga_r_e_241023_04_1",
+          "h": false
+        },
+        {
+          "episode_title": "ep.10 悲劇のプリンセスではいられない～前編～10",
+          "episode_desc": "砂漠の国からの派遣隊にいたアルビルを見つけ、案内してもらうことにした{{ name }}とユーリ。楽しい買い出しの裏で、波乱の種がまかれていく。",
+          "label": "midoga_r_e_241023_05_1",
+          "h": false
+        }
+      ],
+      "story_tab_type": 3
+    },
+    {
+      "story_name": "悲劇のプリンセスではいられない\n～後編～",
+      "url": "https://res.midogar.saikyo.biz/img/bnr/event/bnr_20241023.png",
+      "episode_list": [
+        {
+          "episode_title": "ep.1 悲劇のプリンセスではいられない～後編～1",
+          "episode_desc": "女優として誘われた魔物や天使が次々と現れる。しかしその選抜は――あまりにも波乱に満ちて見えた。",
+          "label": "midoga_r_e_241101_06_1",
+          "h": false
+        },
+        {
+          "episode_title": "ep.3 悲劇のプリンセスではいられない～後編～3",
+          "episode_desc": "衣装合わせを進めていくと、それぞれが劇への意欲を見せ始める。劇伴演奏者のミュートとも顔合わせを終えて本格的な稽古が開始された。",
+          "label": "midoga_r_e_241101_07_1",
+          "h": false
+        },
+        {
+          "episode_title": "ep.5 悲劇のプリンセスではいられない～後編～5",
+          "episode_desc": "Hシナリオあり♥　稽古を続ける一行だが、ユーリはあなたの手を引いて物陰に連れていってしまい――。",
+          "label": "midoga_r_e_241101_08_1",
+          "h": false
+        },
+        {
+          "episode_title": "ep.7 悲劇のプリンセスではいられない～後編～7",
+          "episode_desc": "舞台は幕を開けた。悲劇のプリンセスたちの物語が始まる。",
+          "label": "midoga_r_e_241101_09_1",
+          "h": false
+        },
+        {
+          "episode_title": "ep.10 悲劇のプリンセスではいられない～後編～10",
+          "episode_desc": "無事舞台は成功裏に終わる。一行は打ち上げということで砂漠の国で輪になって飲食を楽しんでいた。",
+          "label": "midoga_r_e_241101_10_1",
+          "h": false
+        }
+      ],
+      "story_tab_type": 3
     }
   ]
 }

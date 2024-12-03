@@ -7700,6 +7700,68 @@
         }
       ],
       "story_tab_type": 3
+    },
+    {
+      "story_name": "奇跡の夜に願いを込めて\n～前編～",
+      "url": "https://res.midogar.saikyo.biz/img/bnr/event/bnr_20241121.png",
+      "episode_list": [
+        {
+          "episode_title": "ep.1 奇跡の夜に願いを込めて～前編～1",
+          "episode_desc": "今日も今日とて大忙しのサンタたち、そんな状況に今年の良い子たちは迷い込む。",
+          "label": "midoga_r_e_241121_01_1",
+          "h": false
+        },
+        {
+          "episode_title": "ep.5 奇跡の夜に願いを込めて～前編～5",
+          "episode_desc": "急いで建物のなかに避難したはいいが、果たして大丈夫なのだろうか？",
+          "label": "midoga_r_e_241121_02_1",
+          "h": false
+        },
+        {
+          "episode_title": "ep.10 奇跡の夜に願いを込めて～前編～10",
+          "episode_desc": "トラブルに次ぐトラブル……先行きは不透明、前途は多難か。",
+          "label": "midoga_r_e_241121_03_1",
+          "h": false
+        }
+      ],
+      "story_tab_type": 3
+    },
+    {
+      "story_name": "奇跡の夜に願いを込めて\n～中編～",
+      "url": "https://res.midogar.saikyo.biz/img/bnr/event/bnr_20241121.png",
+      "episode_list": [
+        {
+          "episode_title": "ep.1 奇跡の夜に願いを込めて～中編～1",
+          "episode_desc": "どこにいるかもわからない今年の良い子たち、クリスマスの国総出で事に当たる。",
+          "label": "midoga_r_e_241201_04_1",
+          "h": false
+        },
+        {
+          "episode_title": "ep.3 奇跡の夜に願いを込めて～中編～3",
+          "episode_desc": "ネシアをなんとか無力化したノルンとニコラ。一方そのころ……",
+          "label": "midoga_r_e_241201_05_1",
+          "h": false
+        },
+        {
+          "episode_title": "ep.5 奇跡の夜に願いを込めて～中編～5",
+          "episode_desc": "はぐれの良い子との邂逅に成功したリーニィは、前例のないイレギュラーに対して説得を試みる。",
+          "label": "midoga_r_e_241201_06_1",
+          "h": false
+        },
+        {
+          "episode_title": "ep.7 奇跡の夜に願いを込めて～中編～7",
+          "episode_desc": "破天荒なホワイトサンタのノルンを中心にクリスマスの状況は動き出す。",
+          "label": "midoga_r_e_241201_07_1",
+          "h": false
+        },
+        {
+          "episode_title": "ep.10 奇跡の夜に願いを込めて～中編～10",
+          "episode_desc": "ついにクリスマスが始まってしまった。残りの良い子たちの動向は未だ知れず……果たして無事にプレゼントを配り切れるのだろうか？",
+          "label": "midoga_r_e_241201_08_1",
+          "h": false
+        }
+      ],
+      "story_tab_type": 3
     }
   ]
 }

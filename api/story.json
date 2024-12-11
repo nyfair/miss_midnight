@@ -7762,6 +7762,43 @@
         }
       ],
       "story_tab_type": 3
+    },
+    {
+      "story_name": "奇跡の夜に願いを込めて\n～後編～",
+      "url": "https://res.midogar.saikyo.biz/img/bnr/event/bnr_20241121.png",
+      "episode_list": [
+        {
+          "episode_title": "ep.1 奇跡の夜に願いを込めて～後編～1",
+          "episode_desc": "ノルンは心に突っかかりを感じながらもカティルを説得するため、リーニィの部屋へ赴く。",
+          "label": "midoga_r_e_241209_09_1",
+          "h": false
+        },
+        {
+          "episode_title": "ep.3 奇跡の夜に願いを込めて～後編～3",
+          "episode_desc": "これからどうしようかと困惑するリーニィ。そこにとある救世主が現れる。",
+          "label": "midoga_r_e_241209_10_1",
+          "h": false
+        },
+        {
+          "episode_title": "ep.5 奇跡の夜に願いを込めて～後編～5",
+          "episode_desc": "ノルンと良い子たちはプレゼントを配り出す、彼女らは奮闘するが果たして……",
+          "label": "midoga_r_e_241209_11_1",
+          "h": false
+        },
+        {
+          "episode_title": "ep.7 奇跡の夜に願いを込めて～後編～7",
+          "episode_desc": "クリスマスを成功させるため、あちこち駆けまわるノルン。そして、そこに救世主が現れる。",
+          "label": "midoga_r_e_241209_12_1",
+          "h": false
+        },
+        {
+          "episode_title": "ep.10 奇跡の夜に願いを込めて～後編～10",
+          "episode_desc": "今年も無事にプレゼントを配り終える、彼女らの密かな奮闘は誰の記憶にも刻まれることなくただ『奇跡』としてそこにあり続ける。",
+          "label": "midoga_r_e_241209_13_1",
+          "h": false
+        }
+      ],
+      "story_tab_type": 3
     }
   ]
 }

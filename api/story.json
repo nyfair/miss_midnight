@@ -7873,6 +7873,93 @@
         }
       ],
       "story_tab_type": 3
+    },
+    {
+      "story_name": "我ら、闇を払う冥土戦士！\n～前編～",
+      "url": "https://res.midogar.saikyo.biz/img/bnr/event/bnr_20250117.png",
+      "episode_list": [
+        {
+          "episode_title": "ep.1 我ら、闇を払う冥土戦士！（前編）1",
+          "episode_desc": "リルム、エルゼとともに田舎道を歩く、粗悪な手書きの地図を片手に。",
+          "label": "midoga_r_e_250127_01_1",
+          "h": false
+        },
+        {
+          "episode_title": "ep.3 我ら、闇を払う冥土戦士！（前編）3",
+          "episode_desc": "{{ name }}を見るや否や攻撃してくるゴースト、そこに割って入るのは……",
+          "label": "midoga_r_e_250127_02_1",
+          "h": false
+        },
+        {
+          "episode_title": "ep.6 我ら、闇を払う冥土戦士！（前編）6",
+          "episode_desc": "一同揃ってピクニック、楽しい時間はそこまでに、深奥で闇は手招く。",
+          "label": "midoga_r_e_250127_03_1",
+          "h": false
+        }
+      ],
+      "story_tab_type": 3
+    },
+    {
+      "story_name": "我ら、闇を払う冥土戦士！\n～中編～",
+      "url": "https://res.midogar.saikyo.biz/img/bnr/event/bnr_20250117.png",
+      "episode_list": [
+        {
+          "episode_title": "ep.1 我ら、闇を払う冥土戦士！（中編）1",
+          "episode_desc": "遅れてやってきた新たなメンバー、失踪したロアを見つけるために協力して手を打つ。",
+          "label": "midoga_r_e_250130_04_1",
+          "h": false
+        },
+        {
+          "episode_title": "ep.3 我ら、闇を払う冥土戦士！（中編）3",
+          "episode_desc": "森の中を散策する{{ name }}とリルム、そこには思いがけない出会いが……",
+          "label": "midoga_r_e_250130_05_1",
+          "h": false
+        },
+        {
+          "episode_title": "ep.6 我ら、闇を払う冥土戦士！（中編）6 前",
+          "episode_desc": "敗北Hシーンあり♥　イエニの先導を得て、目的の場所へ。{{ name }}たちは魔に侵されし黒き影と対峙する。",
+          "label": "midoga_r_e_250130_06_1",
+          "h": false
+        },
+        {
+          "episode_title": "ep.6 我ら、闇を払う冥土戦士！（中編）6 後",
+          "episode_desc": "敗北Hシーンあり♥　イエニの先導を得て、目的の場所へ。{{ name }}たちは魔に侵されし黒き影と対峙する。",
+          "label": "midoga_r_e_250130_06_2",
+          "h": true
+        }
+      ],
+      "story_tab_type": 3
+    },
+    {
+      "story_name": "我ら、闇を払う冥土戦士！\n～後編～",
+      "url": "https://res.midogar.saikyo.biz/img/bnr/event/bnr_20250117.png",
+      "episode_list": [
+        {
+          "episode_title": "ep.1 我ら、闇を払う冥土戦士！（後編）1",
+          "episode_desc": "ロアに襲われ死の淵に瀕した{{ name }}は、とある者の助けによってその命をとりとめるのだった。",
+          "label": "midoga_r_e_250205_07_1",
+          "h": false
+        },
+        {
+          "episode_title": "ep.4 我ら、闇を払う冥土戦士！（後編）4",
+          "episode_desc": "今度こそ、ロアを助け出し平穏を取り戻す。冥土戦士、出動――！",
+          "label": "midoga_r_e_250205_08_1",
+          "h": false
+        },
+        {
+          "episode_title": "ep.7 我ら、闇を払う冥土戦士！（後編）7",
+          "episode_desc": "勝機を見出した冥土戦士。彼らの想いは果たして、心を閉ざした少女に届くのか？",
+          "label": "midoga_r_e_250205_09_1",
+          "h": false
+        },
+        {
+          "episode_title": "ep.10 我ら、闇を払う冥土戦士！（後編）10",
+          "episode_desc": "抱いた希望は胸に、尊き過去は心に――ひとまわり成長した少女は共存の道をつかみ取る。",
+          "label": "midoga_r_e_250205_10_1",
+          "h": false
+        }
+      ],
+      "story_tab_type": 3
     }
   ]
 }

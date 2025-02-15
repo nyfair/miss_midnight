@@ -7960,6 +7960,25 @@
         }
       ],
       "story_tab_type": 3
+    },
+    {
+      "story_name": "ルーレットにその身を委ねて\n～追加ストーリー～",
+      "url": "https://res.midogar.saikyo.biz/img/bnr/event/bnr_20231122_01_01.png",
+      "episode_list": [
+        {
+          "episode_title": "ep.1 我ら、闇を払う冥土戦士！～追加ストーリー～ 前",
+          "episode_desc": "冥土戦士たちのその後、何気ない日常の断片",
+          "label": "midoga_r_e_250205_11_1",
+          "h": false
+        },
+        {
+          "episode_title": "ep.1 我ら、闇を払う冥土戦士！～追加ストーリー～ 後",
+          "episode_desc": "冥土戦士たちのその後、何気ない日常の断片",
+          "label": "midoga_r_e_250205_11_2",
+          "h": false
+        }
+      ],
+      "story_tab_type": 3
     }
   ]
 }

@@ -7962,8 +7962,8 @@
       "story_tab_type": 3
     },
     {
-      "story_name": "ルーレットにその身を委ねて\n～追加ストーリー～",
-      "url": "https://res.midogar.saikyo.biz/img/bnr/event/bnr_20231122_01_01.png",
+      "story_name": "我ら、闇を払う冥土戦士！\n～追加ストーリー～",
+      "url": "https://res.midogar.saikyo.biz/img/bnr/event/bnr_20250117.png",
       "episode_list": [
         {
           "episode_title": "ep.1 我ら、闇を払う冥土戦士！～追加ストーリー～ 前",
@@ -7975,6 +7975,74 @@
           "episode_title": "ep.1 我ら、闇を払う冥土戦士！～追加ストーリー～ 後",
           "episode_desc": "冥土戦士たちのその後、何気ない日常の断片",
           "label": "midoga_r_e_250205_11_2",
+          "h": false
+        }
+      ],
+      "story_tab_type": 3
+    },
+    {
+      "story_name": "スチームドリームパジャマパーティー\n～前編～",
+      "url": "https://res.midogar.saikyo.biz/img/bnr/event/bnr_20250220.png",
+      "episode_list": [
+        {
+          "episode_title": "ep.1 スチームドリームパジャマパーティー（前編）1",
+          "episode_desc": "列車に揺られる古き月の国のいつもの二人組、彼女たちには何か目的があるようだが――",
+          "label": "midoga_r_e_250220_01_1",
+          "h": false
+        },
+        {
+          "episode_title": "ep.3 スチームドリームパジャマパーティー（前編）3",
+          "episode_desc": "4両車に移動する途中叫び声を聞いた3名。　そこにはなんと――",
+          "label": "midoga_r_e_250220_02_1",
+          "h": false
+        },
+        {
+          "episode_title": "ep.6 スチームドリームパジャマパーティー（前編）6",
+          "episode_desc": "ラウンジ車両にて夕食を楽しむ。和房とシャルルはいつもと同じ様なメニューを選んでしまう――",
+          "label": "midoga_r_e_250220_03_1",
+          "h": false
+        },
+        {
+          "episode_title": "ep.8 スチームドリームパジャマパーティー（前編）8",
+          "episode_desc": "シャルルを心配する和房はどうしようかと悩む。何か元気の出そうな催しを最近知ったような……？",
+          "label": "midoga_r_e_250220_04_1",
+          "h": false
+        }
+      ],
+      "story_tab_type": 3
+    },
+    {
+      "story_name": "スチームドリームパジャマパーティー\n～中編～",
+      "url": "https://res.midogar.saikyo.biz/img/bnr/event/bnr_20250220.png",
+      "episode_list": [
+        {
+          "episode_title": "ep.1 スチームドリームパジャマパーティー（中編）1",
+          "episode_desc": "聞き心地の良い声が聞こえる――",
+          "label": "midoga_r_e_250227_05_1",
+          "h": false
+        },
+        {
+          "episode_title": "ep.3 スチームドリームパジャマパーティー（中編）3 前",
+          "episode_desc": "扉に飲み込まれた7名、その先に広がっていたものとは",
+          "label": "midoga_r_e_250227_06_1",
+          "h": false
+        },
+        {
+          "episode_title": "ep.3 スチームドリームパジャマパーティー（中編）3 後",
+          "episode_desc": "扉に飲み込まれた7名、その先に広がっていたものとは",
+          "label": "midoga_r_e_250227_06_2",
+          "h": false
+        },
+        {
+          "episode_title": "ep.6 スチームドリームパジャマパーティー（中編）6 前",
+          "episode_desc": "懐かしい風と香りが鼻を擽る",
+          "label": "midoga_r_e_250227_07_1",
+          "h": false
+        },
+        {
+          "episode_title": "ep.6 スチームドリームパジャマパーティー（中編）6 後",
+          "episode_desc": "懐かしい風と香りが鼻を擽る",
+          "label": "midoga_r_e_250227_07_2",
           "h": false
         }
       ],

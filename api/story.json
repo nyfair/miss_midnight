@@ -8047,6 +8047,37 @@
         }
       ],
       "story_tab_type": 3
+    },
+    {
+      "story_name": "スチームドリームパジャマパーティー\n～後編～",
+      "url": "https://res.midogar.saikyo.biz/img/bnr/event/bnr_20250220.png",
+      "episode_list": [
+        {
+          "episode_title": "ep.1 スチームドリームパジャマパーティー（後編）1",
+          "episode_desc": "順調に現実へ脱出していく中、目玉の魔物が近づいてきて……？",
+          "label": "midoga_r_e_250303_08_1",
+          "h": false
+        },
+        {
+          "episode_title": "ep.4 スチームドリームパジャマパーティー（後編）4",
+          "episode_desc": "明かされる陰謀、立ちはだかる敵",
+          "label": "midoga_r_e_250303_09_1",
+          "h": false
+        },
+        {
+          "episode_title": "ep.7 スチームドリームパジャマパーティー（後編）7",
+          "episode_desc": "夢列車が……崩壊していく……",
+          "label": "midoga_r_e_250303_10_1",
+          "h": false
+        },
+        {
+          "episode_title": "ep.10 スチームドリームパジャマパーティー（後編）10",
+          "episode_desc": "別れはいつでも辛いです。でも、思い出に残る楽しい催しを先日知ったような……？",
+          "label": "midoga_r_e_250303_11_1",
+          "h": false
+        }
+      ],
+      "story_tab_type": 3
     }
   ]
 }

@@ -1786,6 +1786,80 @@
       "story_tab_type": 2
     },
     {
+      "story_name": "第2部 12章 地獄の果て",
+      "url": "https://res.midogar.saikyo.biz/img/story/25.png",
+      "episode_list": [
+        {
+          "episode_title": "地獄の果て　1",
+          "episode_desc": "アニエス達の尽力で地獄への門が開いた。熱気が吹き付ける門の先へ、リルム達はそれぞれの想いを胸に足を踏み入れる。",
+          "label": "midoga_r_e_250320_12_01",
+          "h": false
+        },
+        {
+          "episode_title": "地獄の果て　2",
+          "episode_desc": "地獄に到着したリルム達だが、そこは想像と異なり静寂に包まれていた。探索を進めると謎のドーム状の建物を発見する。",
+          "label": "midoga_r_e_250320_12_02",
+          "h": false
+        },
+        {
+          "episode_title": "地獄の果て　3",
+          "episode_desc": "地獄の研究施設でリルム達は、不死身の研究者ギヨタンと出会う。彼女はタミュエルの行方を何か知っているようだが――",
+          "label": "midoga_r_e_250320_12_03",
+          "h": false
+        },
+        {
+          "episode_title": "地獄の果て　4",
+          "episode_desc": "不死身のギヨタンに苦戦するリルム達。そんな中{{ name }}は彼女の研究データが重要なことに気づく。",
+          "label": "midoga_r_e_250320_12_04",
+          "h": false
+        },
+        {
+          "episode_title": "地獄の果て　5",
+          "episode_desc": "トロンは研究所と自身の繋がりに気づく。ギヨタンから月への門についての情報ももたらされるが、タミュエルの計画の穴埋めにはいまだ至らなかった。",
+          "label": "midoga_r_e_250320_12_05",
+          "h": false
+        },
+        {
+          "episode_title": "地獄の果て　6",
+          "episode_desc": "鬼の大嶽丸が現れる。リルム達に襲い掛かり力で場を制圧してしまう。",
+          "label": "midoga_r_e_250320_12_06",
+          "h": false
+        },
+        {
+          "episode_title": "地獄の果て　7",
+          "episode_desc": "トロンの渾身の一撃は大嶽丸にも打ち勝つほどのものであった。しかし、その戦いの最中にタミュエルの配下が現れ――",
+          "label": "midoga_r_e_250320_12_07",
+          "h": false
+        },
+        {
+          "episode_title": "地獄の果て　8",
+          "episode_desc": "門を開こうとしたその時、タミュエルが現れる。アンジェロスを挑発し、リルム達を嘲笑う。しかし、その真意は見えてこない。",
+          "label": "midoga_r_e_250320_12_08",
+          "h": false
+        },
+        {
+          "episode_title": "地獄の果て　9",
+          "episode_desc": "敗北Hシーンあり♥　タミュエルは月への計画を語り、堕天使たちにリルム達の排除を命じる。",
+          "label": "midoga_r_e_250320_12_09",
+          "h": false
+        },
+        {
+          "episode_title": "地獄の果て　9 敗北",
+          "episode_desc": "※ story 9 地獄の果て　9 にて敗北した",
+          "label": "midoga_r_e_250320_12_LH",
+          "close": 0,
+          "h": true
+        },
+        {
+          "episode_title": "地獄の果て　10",
+          "episode_desc": "タミュエルはサトゥエルにリルム達の排除を命じ、自身は姿を消す。しかし、もう――トロンに迷いはない。",
+          "label": "midoga_r_e_250320_12_10",
+          "h": false
+        }
+      ],
+      "story_tab_type": 2
+    },
+    {
       "story_name": "花びらの舞う幼き国",
       "url": "https://res.midogar.saikyo.biz/img/bnr/event/bnr_20200630_01_01.png",
       "episode_list": [
@@ -8074,6 +8148,31 @@
           "episode_title": "ep.10 スチームドリームパジャマパーティー（後編）10",
           "episode_desc": "別れはいつでも辛いです。でも、思い出に残る楽しい催しを先日知ったような……？",
           "label": "midoga_r_e_250303_11_1",
+          "h": false
+        }
+      ],
+      "story_tab_type": 3
+    },
+    {
+      "story_name": "星空じゃんぷ！あなたのもとへ！",
+      "url": "https://res.midogar.saikyo.biz/img/bnr/event/bnr_20250327.png",
+      "episode_list": [
+        {
+          "episode_title": "ep.1 星空じゃんぷ！あなたのもとへ！1",
+          "episode_desc": "コレットの実験が引き起こした大爆発！なんと、一行は超光速粒子化！？騒ぎの中、一体どこへ飛ばされてしまうのか――",
+          "label": "midoga_r_e_250327_01_1",
+          "h": false
+        },
+        {
+          "episode_title": "ep.2 星空じゃんぷ！あなたのもとへ！2",
+          "episode_desc": "魔法暴走で別銀河へ飛ばされた一行。その後も引き起こされる予測不能な転移。果たして元の世界に帰れるのか？",
+          "label": "midoga_r_e_250327_02_1",
+          "h": false
+        },
+        {
+          "episode_title": "ep.3 星空じゃんぷ！あなたのもとへ！3",
+          "episode_desc": "転移先は書物の島であった。そこで転移の原因が判明する。コハルの大胆な提案で、自発的な転移を試みることに。",
+          "label": "midoga_r_e_250327_03_1",
           "h": false
         }
       ],

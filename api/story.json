@@ -8177,6 +8177,31 @@
         }
       ],
       "story_tab_type": 3
+    },
+    {
+      "story_name": "アオハル・ドリーマーズ！\n（前編）",
+      "url": "https://res.midogar.saikyo.biz/img/bnr/event/bnr_20250424.png",
+      "episode_list": [
+        {
+          "episode_title": "ep.1 アオハル・ドリーマーズ！（前編）1",
+          "episode_desc": "エナの誘いに学校へやってきた{{ name }}、そこにあったのはいつもと違う雰囲気の校舎だった――",
+          "label": "midoga_r_e_250424_01_1",
+          "h": false
+        },
+        {
+          "episode_title": "ep.3 アオハル・ドリーマーズ！（前編）3",
+          "episode_desc": "鍵探しのために集められた風紀委員たち、軽い自己紹介のあと、いよいよ学園祭へ向けて動き出す。",
+          "label": "midoga_r_e_250424_02_1",
+          "h": false
+        },
+        {
+          "episode_title": "ep.6 アオハル・ドリーマーズ！（前編）6",
+          "episode_desc": "パトロールを始める風紀委員。捜索を続けるうちにある違和感に気づいていく……",
+          "label": "midoga_r_e_250424_03_1",
+          "h": false
+        }
+      ],
+      "story_tab_type": 3
     }
   ]
 }

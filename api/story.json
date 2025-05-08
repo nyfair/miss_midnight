@@ -8202,6 +8202,62 @@
         }
       ],
       "story_tab_type": 3
+    },
+    {
+      "story_name": "アオハル・ドリーマーズ！\n（中編）",
+      "url": "https://res.midogar.saikyo.biz/img/bnr/event/bnr_20250424.png",
+      "episode_list": [
+        {
+          "episode_title": "ep.1 アオハル・ドリーマーズ！（中編）1",
+          "episode_desc": "中庭に渦巻く異様な熱気の正体とは――！？",
+          "label": "midoga_r_e_250428_04_1",
+          "h": false
+        },
+        {
+          "episode_title": "ep.3 アオハル・ドリーマーズ！（中編）3",
+          "episode_desc": "Hシーンあり♥　ネオ桃花会のアジトに突入した風紀委員たちは、その勢いに翻弄されながらも追跡を開始する。",
+          "label": "midoga_r_e_250428_05_1",
+          "h": true
+        },
+        {
+          "episode_title": "ep.5 アオハル・ドリーマーズ！（中編）5",
+          "episode_desc": "とうとう藤宮を追い詰めた風紀委員。決戦が始まる――！",
+          "label": "midoga_r_e_250428_06_1",
+          "h": false
+        }
+      ],
+      "story_tab_type": 3
+    },
+    {
+      "story_name": "アオハル・ドリーマーズ！\n（後編）",
+      "url": "https://res.midogar.saikyo.biz/img/bnr/event/bnr_20250424.png",
+      "episode_list": [
+        {
+          "episode_title": "ep.1 アオハル・ドリーマーズ！（後編）1",
+          "episode_desc": "学園祭当日、生徒たちの前に現れたのは変わり果てた世界の姿だった――",
+          "label": "midoga_r_e_240508_07_1",
+          "h": false
+        },
+        {
+          "episode_title": "ep.3 アオハル・ドリーマーズ！（後編）3",
+          "episode_desc": "消えた学校を取り戻すため、皆の願いを重ねて――",
+          "label": "midoga_r_e_240508_08_1",
+          "h": false
+        },
+        {
+          "episode_title": "ep.5 アオハル・ドリーマーズ！（後編）5",
+          "episode_desc": "アイシャの願い、その行方は――",
+          "label": "midoga_r_e_240508_09_1",
+          "h": false
+        },
+        {
+          "episode_title": "ep.7 アオハル・ドリーマーズ！（後編）7",
+          "episode_desc": "祭りのあとは、みんなで後片付け！",
+          "label": "midoga_r_e_240508_10_1",
+          "h": false
+        }
+      ],
+      "story_tab_type": 3
     }
   ]
 }

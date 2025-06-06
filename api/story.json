@@ -1860,6 +1860,43 @@
       "story_tab_type": 2
     },
     {
+      "story_name": "第2部 13章 真なる星 -前編-",
+      "url": "https://res.midogar.saikyo.biz/img/story/26.png",
+      "episode_list": [
+        {
+          "episode_title": "真なる星 -前編-　1",
+          "episode_desc": "月に乗りこむため、堕天使サトゥエルと対峙する一行。しかし彼女の幻惑魔術は強力で、同士討ちの危険に手を出せずにいた。",
+          "label": "midoga_r_e_250605_Fin_01",
+          "h": false
+        },
+        {
+          "episode_title": "真なる星 -前編-　2",
+          "episode_desc": "リネッタの応急処置のため、ギヨタンの研究室に戻る。ニカは施設内の造られた存在を見て、何か物思いにふけっていた。",
+          "label": "midoga_r_e_250605_Fin_02",
+          "h": false
+        },
+        {
+          "episode_title": "真なる星 -前編-　3",
+          "episode_desc": "月への『道』は、異空間となっていた。虚構めいた光景に驚く一行を迎えたのは月の門番であった。",
+          "label": "midoga_r_e_250605_Fin_03",
+          "h": false
+        },
+        {
+          "episode_title": "真なる星 -前編-　4",
+          "episode_desc": "月に辿り着いたリルムたち。月には異常に発展した小さな都市が作られていた――",
+          "label": "midoga_r_e_250605_Fin_04",
+          "h": false
+        },
+        {
+          "episode_title": "真なる星 -前編-　5",
+          "episode_desc": "集まってくる悪魔たち。彼女たちはこの軌道都市に住んでいるという。しかし悪魔の真の目的は、この都市とは別にあった。",
+          "label": "midoga_r_e_250605_Fin_05",
+          "h": false
+        }
+      ],
+      "story_tab_type": 2
+    },
+    {
       "story_name": "花びらの舞う幼き国",
       "url": "https://res.midogar.saikyo.biz/img/bnr/event/bnr_20200630_01_01.png",
       "episode_list": [
@@ -5539,43 +5576,6 @@
       "story_tab_type": 3
     },
     {
-      "story_name": "冷たき冬に愛をこめて",
-      "url": "https://res.midogar.saikyo.biz/img/bnr/event/bnr_20210114_01_01.png",
-      "episode_list": [
-        {
-          "episode_title": "ep.1 冷たき冬に愛をこめて1",
-          "episode_desc": "いつもとは違う衣装を着たリプリスと街で会った主人公。その背後には何者かの気配が……。",
-          "label": "midoga_r_e_0114_1_1",
-          "h": false
-        },
-        {
-          "episode_title": "ep.3 冷たき冬に愛をこめて3",
-          "episode_desc": "アトラが見つめていたのは主人公であり、それには理由があった。",
-          "label": "midoga_r_e_0114_2_1",
-          "h": false
-        },
-        {
-          "episode_title": "ep.5 冷たき冬に愛をこめて5",
-          "episode_desc": "愛する気持ちが強くなり、アトラは常に主人公のことを想うようになる。",
-          "label": "midoga_r_e_0114_3_1",
-          "h": false
-        },
-        {
-          "episode_title": "ep.7 冷たき冬に愛をこめて7",
-          "episode_desc": "アトラは主人公のことを想い続け、ついにストーカー行為まで走ってしまう……。",
-          "label": "midoga_r_e_0114_4_1",
-          "h": false
-        },
-        {
-          "episode_title": "ep.10 冷たき冬に愛をこめて10",
-          "episode_desc": "気絶し眠っている主人公を見守るアトラ。アトラの想いは主人公へ届くのか……。",
-          "label": "midoga_r_e_0114_5_1",
-          "h": false
-        }
-      ],
-      "story_tab_type": 3
-    },
-    {
       "story_name": "ここはメイド喫茶\n『ご奉仕地獄』！（前編）",
       "url": "https://res.midogar.saikyo.biz/img/bnr/event/bnr_20230126_01_01.png",
       "episode_list": [
@@ -5644,73 +5644,6 @@
           "episode_title": "ep.10 ここはメイド喫茶『ご奉仕地獄』！（後編）10",
           "episode_desc": "ポップアップストアとしての役目を終えたメイド喫茶。古き月の国と夜魔の国の距離が少し近づいたのかもしれない。",
           "label": "midoga_r_e_230126_10_10",
-          "h": false
-        }
-      ],
-      "story_tab_type": 3
-    },
-    {
-      "story_name": "世にもお菓子な物語",
-      "url": "https://res.midogar.saikyo.biz/img/bnr/event/bnr_20220203_1.png",
-      "episode_list": [
-        {
-          "episode_title": "ep.1 世にもお菓子な物語1",
-          "episode_desc": "あなたの愛を魔物に示そう。",
-          "label": "midoga_r_e_0202_1_1",
-          "h": false
-        },
-        {
-          "episode_title": "ep.2 世にもお菓子な物語2",
-          "episode_desc": "拠点では{{ name }}とシェンシェンが留守を任されていた。そこに飛び込んできたのはあるサキュバスで――",
-          "label": "midoga_r_e_0202_2_1",
-          "h": false
-        },
-        {
-          "episode_title": "ep.3 世にもお菓子な物語3",
-          "episode_desc": "さらなる来訪者が拠点を襲う。人数が増えるにつれて、拠点は騒がしくなっていく。",
-          "label": "midoga_r_e_0202_3_1",
-          "h": false
-        },
-        {
-          "episode_title": "ep.4 世にもお菓子な物語4",
-          "episode_desc": "騒がしい拠点に、ファンリーという獅子娘がやってくる。彼女は電気で{{ name }}を襲い始め――",
-          "label": "midoga_r_e_0202_4_1",
-          "h": false
-        },
-        {
-          "episode_title": "ep.5 世にもお菓子な物語5",
-          "episode_desc": "全てが失敗だった。一度、リセットしなければならない。あのチョコを使って、1時間前に戻ろう。",
-          "label": "midoga_r_e_0202_5_1",
-          "h": false
-        },
-        {
-          "episode_title": "ep.6 世にもお菓子な物語6",
-          "episode_desc": "チョコを渡した1時間前に戻ってきたユーリだが、そこで運命の歯車が狂いだす。",
-          "label": "midoga_r_e_0202_6_1",
-          "h": false
-        },
-        {
-          "episode_title": "ep.7 世にもお菓子な物語7",
-          "episode_desc": "激しく鼓動する心臓を抑え、また舞い戻るユーリ。そこには悪魔たちが揃っており――",
-          "label": "midoga_r_e_0202_7_1",
-          "h": false
-        },
-        {
-          "episode_title": "ep.8 世にもお菓子な物語8",
-          "episode_desc": "捻じれた運命の元、ある吸血鬼が出現する。ユーリは苦痛を味わいながらも希望を捨てなかった。",
-          "label": "midoga_r_e_0202_8_1",
-          "h": false
-        },
-        {
-          "episode_title": "ep.9 世にもお菓子な物語9",
-          "episode_desc": "また時の流れは収束し、止まっていた針が進みだす――",
-          "label": "midoga_r_e_0202_9_1",
-          "h": false
-        },
-        {
-          "episode_title": "ep.10 世にもお菓子な物語10",
-          "episode_desc": "シェンシェンは目標を一部達成した。しかし、それは苦難の始まりを意味していた――",
-          "label": "midoga_r_e_0202_10_1",
           "h": false
         }
       ],
@@ -6628,43 +6561,6 @@
           "episode_title": "ep.10 MASQUERADE　HALLOWEEN～後編～10",
           "episode_desc": "陽のさす国を後にするニカたち。帰路の途中で、ニカは答えをアンジェロスへと示す。",
           "label": "midoga_r_e_231023_10_1",
-          "h": false
-        }
-      ],
-      "story_tab_type": 3
-    },
-    {
-      "story_name": "祓い祓われ巫女契約 後編",
-      "url": "https://res.midogar.saikyo.biz/img/bnr/event/bnr_20221228_01_01.png",
-      "episode_list": [
-        {
-          "episode_title": "ep.1 祓い祓われ巫女契約（後編）1",
-          "episode_desc": "三が日の参拝に備えて半泣きで準備を続ける撫子。そんな中神社にまた1人導かれた魔物、カオがやってくる。",
-          "label": "midoga_r_e_221228_10_6",
-          "h": false
-        },
-        {
-          "episode_title": "ep.3 祓い祓われ巫女契約（後編）3",
-          "episode_desc": "天界も地上と同じく新年を祝う祭りの最中であった。ハナエルはオルテガの任務を代わりに請け負い、地上へと降りていく。",
-          "label": "midoga_r_e_221228_10_7",
-          "h": false
-        },
-        {
-          "episode_title": "ep.5 祓い祓われ巫女契約（後編）5",
-          "episode_desc": "無事、元旦の参拝者たちを迎え入れる準備を終え、ほっとしたのもつかの間。想定よりも激しい混雑の中で、騒動の種が生まれてしまう。",
-          "label": "midoga_r_e_221228_10_8",
-          "h": false
-        },
-        {
-          "episode_title": "ep.7 祓い祓われ巫女契約（後編）7",
-          "episode_desc": "乱闘騒ぎも落ちつき、{{ name }}は挨拶に来てくれた青藍と新年の挨拶を交わした。",
-          "label": "midoga_r_e_221228_10_9",
-          "h": false
-        },
-        {
-          "episode_title": "ep.10 祓い祓われ巫女契約（後編）10",
-          "episode_desc": "改めて一段落した神社。撫子は疲れた体をぐっと伸ばしながらも、満たされた気持ちになっていた。",
-          "label": "midoga_r_e_221228_10_10",
           "h": false
         }
       ],

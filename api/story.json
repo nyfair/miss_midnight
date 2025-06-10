@@ -1897,6 +1897,43 @@
       "story_tab_type": 2
     },
     {
+      "story_name": "第2部 14章 真なる星 -後編-",
+      "url": "https://res.midogar.saikyo.biz/img/story/27.png",
+      "episode_list": [
+        {
+          "episode_title": "真なる星 -後編-　1",
+          "episode_desc": "無力化されたラストス。タミュエルを探し都市を進むと、かつて対峙した守護天使が姿を現す。",
+          "label": "midoga_r_e_250605_Fin_06",
+          "h": false
+        },
+        {
+          "episode_title": "真なる星 -後編-　2",
+          "episode_desc": "エレカとの戦いで時間切れを迎える。堕天使の首魁、タミュエルが新世界という空想を掲げて悪意を降り注ぐ。",
+          "label": "midoga_r_e_250605_Fin_07",
+          "h": false
+        },
+        {
+          "episode_title": "真なる星 -後編-　3",
+          "episode_desc": "タミュエルの中の複雑に絡まった感情を、アンジェロスは受け止める。しかしそれはタミュエルの自壊を招いてしまう。",
+          "label": "midoga_r_e_250605_Fin_08",
+          "h": false
+        },
+        {
+          "episode_title": "真なる星 -後編-　4",
+          "episode_desc": "名もなき英雄たちよ、この世界に――夜明けをもたらせ。",
+          "label": "midoga_r_e_250605_Fin_09",
+          "h": false
+        },
+        {
+          "episode_title": "真なる星 -後編-　5",
+          "episode_desc": "そして世界は回り続ける。",
+          "label": "midoga_r_e_250605_Fin_10",
+          "h": false
+        }
+      ],
+      "story_tab_type": 2
+    },
+    {
       "story_name": "花びらの舞う幼き国",
       "url": "https://res.midogar.saikyo.biz/img/bnr/event/bnr_20200630_01_01.png",
       "episode_list": [

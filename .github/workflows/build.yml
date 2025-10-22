@@ -23,9 +23,7 @@ jobs:
         rustup target add --toolchain stable ${{ matrix.target }}
         cargo build --release --target=${{ matrix.target }}
         move target\${{ matrix.target }}\release\*.exe .
-        del api\*
-        del app_data\*
-        7z a ${{ matrix.target }}.7z *.exe api/ app_data/
+        7z a ${{ matrix.target }}.7z mid*.exe config.json api/ app_data/
     - name: Upload
       uses: svenstaro/upload-release-action@v2
       with:
@@ -51,7 +49,7 @@ jobs:
         rustup target add --toolchain stable ${{ matrix.target }}
         cargo build --release --target=${{ matrix.target }}
         mv target/${{ matrix.target }}/release/mid* .
-        rm *.d api/* app_data/*
+        rm *.d
         tar acf ${{ matrix.target }}.tar.xz mid* config.json api/ app_data/
     - name: Upload
       uses: svenstaro/upload-release-action@v2
@@ -84,7 +82,7 @@ jobs:
         cargo install cross --git https://github.com/cross-rs/cross
         cross build --release --target=${{ matrix.target }}
         mv target/${{ matrix.target }}/release/* .
-        rm *.d api/* app_data/*
+        rm *.d
         tar acf ${{ matrix.target }}.tar.xz mid* config.json api/ app_data/
     - name: Upload
       uses: svenstaro/upload-release-action@v2

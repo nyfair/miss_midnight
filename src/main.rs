@@ -20,10 +20,17 @@ macro_rules! tplt {
     };
 }
 
+// NOTE: `_body` must always be extracted, even though no handler uses it.
+// When the browser sends the POST body in a packet separate from the headers,
+// actix-web stalls the keep-alive connection if the body is never read, and the
+// request (or the next one on that connection) hangs forever without a response.
 macro_rules! api {
     ($api:tt, $func:ident) => {
         #[post($api)]
-        async fn $func(cache: web::Data<Map<String, Value>>) -> impl Responder {
+        async fn $func(
+            cache: web::Data<Map<String, Value>>,
+            _body: web::Bytes,
+        ) -> impl Responder {
             serde_json::to_string(&cache[(stringify!($func))])
                 .map_or(h403! {"Invalid Template"}, |v| h200! {v})
         }
@@ -37,7 +44,7 @@ static CONFIG: Lazy<Value> = Lazy::new(|| {
 });
 
 #[post("/api/api/login")]
-async fn alogin() -> impl Responder {
+async fn alogin(_body: web::Bytes) -> impl Responder {
     h200! {"{\"page\":\"user_login\",\"error_flg\": 0}"}
 }
 

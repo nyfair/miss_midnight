@@ -42,28 +42,28 @@
     </style>
   </head>
   <body style="text-align: center; margin: 0px;">
-    <canvas id="unity-canvas" width="1280" height="720" style="width: 1280px; height: 720px; margin: 0px; padding: 0px; position: absolute; left: 0px; z-index: 1; background: url(&quot;https://midogar.webaccel.saikyo.biz/Build/git_dmm_proj2_build.jpg&quot;) center center / cover; cursor: default;" data-fg-ref="1"></canvas>
+    <canvas id="unity-canvas" width="1280" height="720" style="width: 1280px; height: 720px; margin: 0px; padding: 0px; position: absolute; left: 0px; z-index: 1; background: url(&quot;../Build/git_dmm_proj2_build.jpg&quot;) center center / cover; cursor: default;" data-fg-ref="1"></canvas>
     <div class="progressBg fadeout" style="display: none;"><div class="progressBar fadeout" style="width: 956px; display: none;"></div></div>
-    <script src="https://midogar.webaccel.saikyo.biz/Build/git_dmm_proj2_build.loader.js"></script>
-    <script src="https://midogar.webaccel.saikyo.biz/Build/git_dmm_proj2_build.framework.js"></script>
+    <script src="../Build/git_dmm_proj2_build.loader.js"></script>
+    <script src="../Build/git_dmm_proj2_build.framework.js"></script>
     <script>
       var origFetch = window.fetch;
       window.fetch = async (url, args) => {
           url = url.replace('https://dmm.midogar.saikyo.biz', '')
           // offline mode, all assets should be in the app_data directory;
-          // url = url.replace('https://res.midogar.saikyo.biz', '');
+          url = url.replace('https://res.midogar.saikyo.biz', '');
           // online mode
-          if (args.method == 'GET' && !url.startsWith('https://')) {
-            url = url.replace('http://', '').replace(location.host, '');
-            url = 'https://res.midogar.saikyo.biz' + url;
-          }
+          // if (args.method == 'GET' && !url.startsWith('https://')) {
+          //   url = url.replace('http://', '').replace(location.host, '');
+          //   url = 'https://res.midogar.saikyo.biz' + url;
+          // }
           return await origFetch(url, args);
       };
 
       createUnityInstance(document.querySelector("#unity-canvas"), {
-        dataUrl: "https://midogar.webaccel.saikyo.biz/Build/git_dmm_proj2_build.data",
-        frameworkUrl: "https://midogar.webaccel.saikyo.biz/Build/git_dmm_proj2_build.framework.js",
-        codeUrl: "https://midogar.webaccel.saikyo.biz/Build/git_dmm_proj2_build.wasm",
+        dataUrl: "../Build/git_dmm_proj2_build.data",
+        frameworkUrl: "../Build/git_dmm_proj2_build.framework.js",
+        codeUrl: "../Build/git_dmm_proj2_build.wasm",
         streamingAssetsUrl: "StreamingAssets",
         companyName: "Dieselmine",
         productName: "MidnightGirlsR",
@@ -91,14 +91,14 @@
           for(i=0;i<elements.length;i++){
             elements[i].classList.add('fadeout');
           }
-          setTimeout(function(){ 
+          setTimeout(function(){
             var elements = document.getElementsByClassName('progressBg');
             for(i=0;i<elements.length;i++){
-              elements[i].style.display = "none"; 
+              elements[i].style.display = "none";
             }
             var elements = document.getElementsByClassName('progressBar');
             for(i=0;i<elements.length;i++){
-              elements[i].style.display = "none"; 
+              elements[i].style.display = "none";
             }
           }, 1000);
         }, 100);
